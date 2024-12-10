@@ -1,0 +1,1501 @@
+ 
+ 
+ 
+Le décret n° 2020 -566 du 13 mai 2020 a ajouté au décret n° 88 -386 du 19 avril 1988 un titre VI 
+bis dédié au congé pour invalidité temporaire imputable au service applicable aux fonctionnaires 
+titulaires ou stagiaires hospitaliers . 
+Ce guide est destiné à accompagner les établissements  dans l’appropriation et la mise en œuvre de 
+ces règle s afin de faciliter leur application et de permettre un accompagnement optimal des agents 
+victimes d’accidents de service ou de maladies professionnelles.  
+Il se présente sous forme de fiches thématiques périodiquement actualisées selon les évolutions des 
+textes, l’intervention de jurisprudences ou encore l’identification de bonnes pratiques.  
+Le présent guide a pour objet de présenter le régime de réparation des accidents de service, des 
+accidents de trajet et des maladies professionnelles (ASMP) applicable aux fonctionnaires titulaires ou 
+stagiaires hospitaliers.  
+Ce guide, à destination des administrations et des agents acteurs intervenant dans la chaîne de 
+traitement des dossiers en matière d’ASMP des fonctionnaires, vise à apporter des explicitations et 
+des préconisations quant à la mise en œuvre des dispositions législatives et réglementaires relatives 
+au congé pour invalidité temporaire imputable au service ainsi qu’au remboursement des honoraires 
+médicaux et frais entrainés par l’accident ou la maladie.  
+  
+2 
+ Table des matières  
+Les différents types d’ASMP  .................................................................................................................... 3 
+Les premiers réflexes  ............................................................................................................................... 8 
+Les démarches de l’agent  ........................................................................................................................ 9 
+Les actions de l’établissement ............................................................................................................... 16 
+Décision de l’AIPN  .................................................................................................................................  26 
+Sortie du CITIS  ....................................................................................................................................... 34 
+Retraite et mobilité  ............................................................................................................................... 37 
+ 
+Les acteurs de la procédure décrite par le guide :  
+- Agent = fonctionnaire titulaire ou stagiaire de la fonction publique hospitalière, à l’exclusion de toute 
+autre catégorie (par exempl e : agents contractuels de droit public)  
+- Service RH = service RH de proximité (placé au plus près de l’agent) ou service RH de gestion des 
+ASMP (qui gère le dossier d’ASMP) selon l’organisation de l’établissement.  
+- Médecin du travail  
+- Autorité investi e du pouvoir de nomination (AIPN)  
+- Médecin agréé = médecin chargé des expertises médicales et contre- visites  
+- Commission de réforme = instance médicale consultative  
+ 
+Ce guide n’a pas pour objet de traiter :  
+- de la politique de prévention des risques pro fessionnels dans la fonction publique.  
+- des dispositions relatives à l’indemnisation de l’incapacité permanent e ou à l’invalidité définitive.  
+ 
+Textes de référence :  
+• Loi n° 83- 634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires   
+Article 21 bis  
+• Code des pensions ci viles et militaires de retraite   
+Articles L. 27, L. 28 et L. 31  
+• Décret n° 60 -1089 du 6 octobre 1960  modifié portant règlement d’administration publique 
+pour l’application des dispositions de l’article 23 bis de l’ordonnance n° 59 -244 du 4 février 
+1959 relative au statut génér al des fonctionnaires  
+• Décret n° 2015 -1588 du 4 décembre 2015  relatif à l'organisation et au fonctionnement des 
+services de santé au travail des établissements publics de santé, sociaux et médico -sociaux 
+mentionnés à l'article 2 de la loi n° 86 -33 du 9 janvier 1986 portant dispositions statutaires 
+relatives à la fonction publique hospitalière  
+• Décret n°  88-386 du 19 avril 1988  relatif aux conditions d'aptitude physique et aux congés de 
+maladie des agents de la fonction publique hospitalière  
+Articles  35-1 à 35 -20 
+• Décret n° 97 -487 du 12 mai 1997  fixant les dispositions communes applicables aux agents 
+stagiaires de la fonction publique hospitalière   
+Articles 24 et 25   3 
+ Les différents types d’ASMP  
+Les fonctionnaires bénéficie nt, de par leur statut, d’un régime spécial de prise en charge défini par 
+l’article 21 bis de la loi du 13 juillet 1983. Cet article précise les notions d’accident de service, d’accident 
+de trajet et de maladies professionnelles qui leur sont applicables ainsi que le régime d’imputabilité au 
+service qui leur est attaché.  
+1. Différents types d’accidents de service  
+De manière générale, un accident correspond à l’apparition d’un événement soudain qui entraîne une 
+atteinte à l’état de santé de la victime. Il se ca ractérise essentiellement par trois critères :  
+• L’évènement, un fait déterminé qu’il est possible de décrire et de dater  ; 
+• Le caractère soudain de cet évènement, qui a lieu dans un court laps de temps ;  
+• L’atteinte à l’état de santé de l’agent.  
+Pour être reconnu comme accident de service, un accident doit remplir certains critères.  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983  
+I.- Le fonctionnaire en activité a droit à un congé pour invalidité temporaire imputable au service 
+lorsque son incapacité temporaire de travail est consécutive à un accident reconnu imputable au 
+service, à un accident de trajet ou à une maladie contractée en service définis aux II, III et IV du présent 
+article. […] 
+II.- Est présumé imputable au service tout accident survenu à  un fonctionnaire, quelle qu'en soit la 
+cause, dans le temps et le lieu du service, dans l'exercice ou à l'occasion de l'exercice par le fonctionnaire 
+de ses fonctions ou d'une activité qui en constitue le prolongement normal, en l'absence de faute 
+personnelle ou de toute autre circonstance particulière détachant l'accident du service.  
+a) Accident survenu dans le temps et le lieu du service  
+La notion d’accident de service s’applique à tout accident survenu dans le temps de travail de l’agent 
+et au sein de son service d’affectation.  
+Lorsque ces conditions sont réunies, le principe de présomption d’imputabilité au service de l’accident 
+trouve à s’appliquer et l’agent n'a pas à apporter la preuve du lien de causalité entre l’accident et le 
+service. Il lui suffit d ’établir la matérialité de l’accident, à savoir : sa survenue aux lieux et au temps du 
+service, dans l’exercice ou à l’occasion de l’exercice des fonctions ainsi que ses conséquences sur son 
+état de santé.  
+b) Accident survenu lors d’une activité constituant l e prolongement normal des fonctions  
+La notion d’accident de service et le régime de présomption d’imputabilité au service qui s’y rattache 
+s’appliquent également aux accidents survenus en dehors du temps ou du lieu de service, si l’activité 
+exercée par le fonctionnaire au moment de l’accident relève des fonctions qu’il est appelé à exercer 
+ou en constitue un prolongement normal.  
+Il s’agit notamment des accidents survenus lorsque l’agent est en formation ou en réunion en dehors 
+de son service d’affectation o u lorsqu’il se trouve en mission pour le compte de l’administration.  
+Il s’agit également des accidents survenus aux représentants syndicaux lors de l’exercice d’une activité 
+syndicale dans le cadre d’un mandat.  
+ 4 
+ c) Cas particulier du télétravail 
+Article 6 du décret n° 2016 -151 du 11 février 2016  
+Les agents exerçant leurs fonctions en télétravail bénéficient des mêmes droits et obligations que les 
+agents exerçant sur leur lieu d'affectation.  
+Les accidents survenus en situation de télétravail relèvent des accidents de service sous réserve qu’ils 
+aient eu lieu dans le temps de télétravail, pendant les heures de télétravail et dans le cadre des 
+fonctions exercées par l’agent en télétravail.  
+ 
+2. Différents types d’accidents de trajet  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983  
+I.- Le fonctionnaire en activité a droit à un congé pour invalidité temporaire imputable au service 
+lorsque son incapacité temporaire de travail est consécutive à un accident reconnu imputable au 
+service, à un accident de trajet ou à une  maladie contractée en service définis aux II, III et IV du présent 
+article. […] 
+III.- Est reconnu imputable au service, lorsque le fonctionnaire ou ses ayants droit en apportent la 
+preuve ou lorsque l'enquête permet à l'autorité administrative de disposer  des éléments suffisants, 
+l'accident de trajet dont est victime le fonctionnaire qui se produit sur le parcours habituel entre le lieu 
+où s'accomplit son service et sa résidence ou son lieu de restauration et pendant la durée normale pour 
+l'effectuer, sauf  si un fait personnel du fonctionnaire ou toute autre circonstance particulière étrangère 
+notamment aux nécessités de la vie courante est de nature à détacher l'accident du service.  
+A la différence de l’accident de service, l’accident de trajet ne bénéfici e pas de la présomption 
+d’imputabilité. Il peut néanmoins être reconnu imputable au service dès lors qu’il intervient sur un 
+itinéraire normal et dans un temps normal par rapport aux horaires de l’agent et aux modalités du 
+trajet. Cet itinéraire ne doit pa s être détourné sauf dans le cas de nécessités de la vie courante (par 
+exemple, dépôt et reprise des enfants chez une nourrice, une crèche ou un établissement scolaire, 
+passage à la boulangerie).  
+Dans tous les cas, la reconnaissance d’imputabilité au service d’un accident de trajet n’est possible 
+qu’en l’absence de fait personnel de l’agent ou de toute autre circonstance particulière étrangère 
+notamment aux nécessités de la vie courante et de nature à détacher l'accident du service.  
+L’accident de trajet app araît à l’intérieur d’un itinéraire « protégé » délimité par un point de départ et 
+un point d’arrivée. Les accidents survenant durant les périodes d’interruption du trajet (par exemple, au sein de la crèche) ne relèvent pas de l’accident de trajet.  
+Concern ant les agents en télétravail, les accidents de trajet peuvent être reconnus dans les situations 
+suivantes :  
+• Trajet entre le domicile et le lieu de télétravail, s’il est différent ;  
+• Trajet entre le lieu de télétravail et le service, en cas de retour exceptionnel temporaire de 
+l’agent sur son service d’affectation un jour de télétravail ;  
+• Trajet entre le lieu de télétravail et le lieu de restauration habituel (voir b) ci- dessous).  
+ 5 
+  
+a) Accident entre le lieu de résidence et le lieu de travail  
+ 
+• Le point de départ (ou d’arrivée) correspond au domicile de l’agent, à sa résidence secondaire 
+ou à son lieu de résidence habituel. Le caractère habituel de la résidence vise par exemple la 
+situation dans laquelle l’agent public réside à titre principal dans une ville  compte tenu, entre 
+autres, de ses attaches familiales (conjoint y travaillant, scolarisation des enfants, etc.) et doit, pour des raisons professionnelles, résider à titre secondaire dans une autre ville plus proche 
+de son lieu de travail. L’itinéraire es t « protégé » à compter du moment où l’agent a quitté son 
+domicile.  
+• Le point d’arrivée (ou de départ) est le lieu de travail de l’agent le jour de l’accident.  
+ 
+b) Accident entre le lieu de travail et le lieu de restauration  
+ 
+• Le point de départ (ou d’arrivée) est le lieu de travail de l’agent le jour de l’accident.  
+• Le point d’arrivée (ou de départ) correspond au lieu de restauration habituel de l’agent, au 
+restaurant administratif le plus proche ou au lieu où le fonctionnaire achète son déjeuner.  
+ 
+3. Les maladies professionnelles  
+A la différence des accidents, qui se caractérisent par la survenance d’un événement soudain, dans un 
+court laps de temps et qui peut être daté, les maladies professionnelles résultent :  
+• De l’exposition prolongée à un risque professionnel ;  
+• Ou d’une intoxication lente sous l’effet répété de certaines substances ou émanations au 
+contact desquelles l’agent est exposé de façon habituelle dans ses activités professionnelles.  
+Ce sont les tableaux des maladies professionnelles annexés au code de la sécurité sociale qui recensent 
+les affections reconnues comme telles. Mais, sous certaines conditions, des maladies n’y figurant pas 
+peuvent également être prises en charge.  
+a) Maladies des tableaux  
+Une affection peut être reconnue comme maladie profession nelle si elle figure sur l'un des tableaux 
+annexés au Code de la Sécurité sociale. Ces tableaux sont créés et modifiés par décret au fur et à 
+mesure de l'évolution des techniques et des progrès des connaissances médicales.  
+(Voir Annexe II du code de la sécurité sociale : Tableaux des maladies professionnelles
+) 
+Chaque tableau comporte les conditions suivantes :  
+• Le délai entre la cessation d'exposition au risque supposé à l'origine de la maladie et la 
+constatation de celle- ci ne doit pas excéder le délai maximal, appelé délai de prise en charge, 
+figurant dans le tableau considéré ;  
+• La victime a été effectivement exposée à l'agent concerné pendant au moins la durée fixée, 
+pour les tableaux qui prévoient une durée minimale d'exposition au risque. Certains tableaux 
+fixent également une durée d’exposition au risque s’ agissant notamment de certaines 
+substances ;  
+• La victime exerce un travail l'exposant habituellement au risque visé par ce tableau, susceptible de causer la maladie ; une liste limitative de ces travaux est précisée pour certains 
+tableaux.  6 
+  
+- Maladies qui rem plissent les conditions des tableaux  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983  
+I.- Le fonctionnaire en activité a droit à un congé pour invalidité temporaire imputable au service 
+lorsque son incapacité temporaire de travail est consécutive à un accident reconnu imputable au 
+service, à un accident de trajet ou à une maladie contractée en service définis aux II, III et IV du présent 
+article. […] 
+IV.- Est présumée imputable au service toute maladie désignée par les tableaux de maladies 
+professionne lles mentionnés aux articles L. 461 -1 et suivants du code de la sécurité sociale et contractée 
+dans l'exercice ou à l'occasion de l'exercice par le fonctionnaire de ses fonctions dans les conditions 
+mentionnées à ce tableau.  
+Lorsque les conditions des tabl eaux sont réunies par l’agent, le principe de présomption d’imputabilité 
+au service de la maladie trouve à s’appliquer.  
+C’est à l’agent qui fait la demande de reconnaissance de maladie professionnelle d’apporter les 
+éléments permettant d’établir que la maladie répond aux conditions prévues par les tableaux.  
+Lorsque la maladie répond aux conditions médicales, professionnelles et administratives mentionnées 
+dans les tableaux, elle est « présumée » d’origine professionnelle, sans qu’il soit nécessaire d’en établir 
+la preuve. Par exemple, le cancer de la vessie est une maladie qui peut notamment être la conséquence 
+d’une intoxication tabagique, mais qui peut aussi être la conséquence de travaux de préparation et de 
+mise en œuvre de colorants et figure dans la liste des affections énumérées au tableau n° 15 ter du 
+régime général . Ainsi, un malade atteint d’un cancer de la vessie et qui a été exposé à certains colorants 
+pendant au moins 5 ans dans l’exerci ce de son métier au sein de la fonction publique, moins de trente 
+ans avant que sa maladie ne soit constatée par un médecin, sera pris en charge. Il bénéficiera de la présomption d’origine professionnelle sans avoir à fournir aucune preuve, même si on retr ouve dans 
+son passé d’autres causes, par exemple une intoxication tabagique, qui peuvent très bien être a ussi à 
+l’origine de sa maladie.  
+- Maladies qui ne remplissent pas les conditions des tableaux  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983  
+I.- Le fonctionnaire en activité a droit à un congé pour invalidité temporaire imputable au service 
+lorsque son incapacité temporaire de travail est consécutive à un accident reconnu imputable au 
+service, à un accident de trajet ou à une maladie contractée en s ervice définis aux II, III et IV du présent 
+article. […] 
+Si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d'exposition ou à la liste 
+limitative des travaux ne sont pas remplies, la maladie telle qu'elle est désignée par un tableau peut 
+être reconnue imputable au service lorsque le fonctionnaire ou ses ayants droit établissent qu'elle est 
+directement causée par l'exercice des fonctions.  
+Une maladie désignée dans un tableau de maladies professionnelles mais pour laquelle une o u 
+plusieurs conditions (tenant au délai de prise en charge, à la durée d'exposition ou à la liste limitative 
+des travaux) ne sont pas remplies, ne bénéficie pas de la présomption d’imputabilité d’office mais peut 
+être reconnue imputable au service. L’agent doit alors établir qu'elle est directement causée par son 
+activité professionnelle.  7 
+ 
+ 
+b) Maladies hors tableaux  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983  
+I.- Le fonctionnaire en activité a droit à un congé pour invalidité temporaire imputable au s ervice 
+lorsque son incapacité temporaire de travail est consécutive à un accident reconnu imputable au 
+service, à un accident de trajet ou à une maladie contractée en service définis aux II, III et IV du présent 
+article. […] 
+Peut également être reconnue im putable au service une maladie non désignée dans les tableaux de 
+maladies professionnelles mentionnés aux articles L. 461 -1 et suivants du code de la sécurité sociale 
+lorsque le fonctionnaire ou ses ayants droit établissent qu'elle est essentiellement et directement 
+causée par l'exercice des fonctions et qu'elle entraîne une incapacité permanente à un taux déterminé 
+et évalué dans les conditions prévues par décret en Conseil d'Etat.  
+ 
+Article 35 -8 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+Le taux d’incapacité permanente servant de seuil pour l’application du troisième alinéa du [IV de 
+l’article 21 bis] est au moins égal au taux prévu à l’article R. 461 -8 du code de la sécurité sociale.  
+Ce taux correspond à l’incapacité que la maladie est susceptible d’entraîner. Il est déterminé par la 
+commission de réforme compte tenu du barème indicatif d'invalidité annexé au décret pris en 
+application du quatrième alinéa de l'article L. 28 du code des pensions civiles et militaires de retraite.  
+Article R. 461- 8 du code  de la sécurité sociale  
+Le taux d'incapacité […] est fixé à 25 %.  
+ 
+Une maladie non désignée dans un tableau de maladies professionnelles ne bénéficie pas de la 
+présomption d’imputabilité au service mais peut tout de même être reconnue imputable au service.  
+L’agent doit établir qu'elle est essentiellement et directement causée par son activité professionnelle et qu'elle entraîne une incapacité permanente d'un taux au moins égal à 25 %.  
+Ce taux d’incapacité correspond au taux prévisible que ce type de maladie  est susceptible d’entrainer 
+; il n’a pas à être effectivement constaté au moment de la déclaration de la maladie. Ce taux est calculé 
+selon le barème indicatif d’invalidité annexé au décret pris en application du quatrième alinéa de 
+l’article L. 28 du cod e des pensions civiles et militaires de retraite.  
+C’est la commission de réforme qui fixe ce taux sur proposition du médecin de l’agent et, s’il y a lieu, 
+expertise médicale (voir fiche « Actions de l’employeur en vue de l’octroi d’un CITIS ». §3. Expertise 
+médicale).  
+ 
+Si le taux prévisible n’atteint pas 25 %,  
+la maladie n’est pas reconnue imputable au service,                         
+l’agent n’est pas placé en CITIS  
+et les honoraires et frais médicaux ne sont pas pris en charge.  8 
+ Les premiers réfl exes  
+ 
+1. Prise en charge médicale de l’agent (en cas d’accident sur le lieu du service)  
+Lorsqu'un accident survient sur le lieu du service, la première chose à faire est de s'assurer que la 
+victime reçoive les soins nécessaires, au besoin en faisant appel à des intervenants extérieurs (service 
+d’aide médicale d’urgence ou pompiers).  
+Dans le même temps, il convient de faire cesser tout danger qui pourrait entraîner un autre accident 
+(arrêt d'une machine, coupure de l'électricité ou du gaz, etc.).  
+2. Information au service RH  
+En cas d’accident sur le lieu du service ou d’accident de trajet, la victime ou, si la victime n’est pas en 
+capacité de le faire, la (les) première(s) personne(s) informée(s) de la survenance de l’accident, le 
+supérieur hiérarchique direct de l’agent ou un ayant -droit de la victime  informe le service RH de la 
+survenance de l’accident.  
+En cas de maladie professionnelle, l’agent malade ou son ayant -droit informe le service RH de sa 
+situation.  
+3. Accompagnement de l’agent dans ses démarches  
+Dès qu’il  a connaissance d’un accident sur le lieu du service, d’un accident de trajet ou d’une maladie 
+professionnelle, le service RH informe l’agent de ses droits et des démarches à effectuer pour 
+demander le bénéfice d’un congé pour invalidité temporaire imputab le au service (CITIS).  
+Il est préconisé à cet effet de mettre à disposition des agents une fiche d’informations synthétique qui 
+indique :  
+• Les droits et des démarches à accomplir en cas d’accident de service ou de maladie 
+professionnelle ;  
+• Les coordonnées d u service RH en charge du suivi des dossiers d’accident de service ou de 
+maladie professionnelle ;  
+• Les coordonnées du médecin du travail ou des services de santé au travail.  
+ Cette fiche peut utilement être insérée dans le livret d’accueil des nouveaux arr ivants ou sur le site 
+intranet du service. Elle peut également être remise à l’agent en situation d’accident de service ou de 
+maladie professionnelle par le service RH ou par son supérieur hiérarchique.  
+ 
+Les modèles de formulaires de déclaration d’accident  et de déclaration de maladie professionnelle 
+sont disponibles sur le site du ministère de la Santé . 
+Afin d’assurer un accompagnement des agents dans un objectif d’effectivité des droits, il est préconisé 
+de remettre à l’agent le formulaire de déclaration d’accident ou le formulaire de déclaration de 
+maladie professionnelle dès qu’un accident ou l’apparition d’une maladie se produisent. De manière 
+générale, la mise en place de renvois des sites intranet ou internet des services vers les formulaires 
+publiés sur le site du ministère de la Santé est une bonne pratique permettant d’assurer un accès aisé 
+aux moyens de déclaration.  
+Lorsque l’agent le demande, le formulaire de déclaration d’accident de service ou de trajet ou celui de 
+déclaration de maladie profess ionnelle lui est envoyé sans délai par courriel ou par courrier.  9 
+ Dans tous les cas, le service RH veillera à informer l’agent des délais à respect er pour envoyer sa 
+déclaration.  
+Article 35 -2 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+« Un formulaire pr écisant les circonstances de l’accident ou de la maladie. Ce formulaire est transmis 
+par l'autorité investie du pouvoir de nomination à l'agent qui en fait la demande, dans un délai de 
+quarante -huit heures suivant celle -ci et, le cas échéant, par voie dématérialisée, si la demande le précise  
+» 
+4.  Autres dispositions  
+Le service RH, en lien avec le supérieur hiérarchique de l’agent, s’attache également à recueillir les 
+témoignages éventuels de personnes sur place et à faire les observations nécessaires afin d’é tablir la 
+matérialité des faits déclarés par l’agent (causes et circonstances de l'accident ou de la maladie) en 
+vue de la reconnaissance de l’imputabilité au service.  
+Il prend l’attache du service technique compétent pour remédier, le cas échéant, au défaut de sécurité 
+qui serait à l’origine de l’accident ou de la maladie.  
+Il s’assure de la mise en œuvre des règles1 relatives aux services de santé au travail. L’information 
+immédiate de l’assistant du service est à cet égard indispensable, même si à ce stade il n’est pas certain que l’accident ou la maladie so ient d’origine professionnelle.  
+Les démarches de l’agent  
+Pour bénéficier du congé pour invalidité temporaire imp utable au service (CITIS), l’ agent doit en faire 
+la demande.  
+Décret n°88 -386 du 19 avril 1988  
+Article 35 -1 (extrait)  
+Le congé [pour invalidité temporaire imputable au service] est accordé au fonctionnaire, sur sa 
+demande [...]. 
+Article 35 -2 
+Pour obtenir un congé pour invalidité temporaire imputable au service, le fonctionnaire, ou son ayant -
+droit, adresse par tout moyen à l’autorité investie du pouvoir de nomination dont il relève une 
+déclaration d’accident de service, d’accident de trajet ou de maladie pr ofessionnelle accompagnée des 
+pièces néces saires pour établir ses droits.  
+La déclaration comporte :  
+1° Un formulaire précisant les circonstances de l’accident ou de la maladie. Ce formulaire est transmis 
+par l'autorité investie du pouvoir de nomination à l 'agent qui en fait la demande, dans un délai de 
+quarante -huit heures suivant celle -ci et, le cas échéant, par voie dématériali sée, si la demande le précise 
+; 
+                                                           
+1 Décret n° 2015 -1588 du 4 décem bre 2015 relatif à l'organisation et au fonctionnement des services de santé au 
+travail des établissements publics de santé, sociaux et médico -sociaux mentionnés à l'article 2 de la loi n° 86- 33 
+du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière  10 
+ 2° Un certificat médical indiquant la nature et le siège des lésions résultant de l’accident ou de  la 
+maladie ainsi que, s’il y a lieu, la durée probable de l’incapacité de travail en découlant.  
+1. Déclaration à l’établissement  
+Pour formaliser sa demande, l’agent utilise un formulaire de déclaration, complété de différentes 
+pièces et, obligatoirement, d’un certificat médical.  
+La déclaration devant parvenir à l’établissement dans  un certain délai par rapport à la survenance de 
+l’accident ou à la constatation médicale de la maladie ( voir § 2 « Délais à respecter » ci -dessous ), il est 
+préconisé de définir au sein des établissements les modalités et circuits de transmission des déclarations d’accident ou de maladie professionnelle. Ce circuit doit préciser le service RH auquel 
+l’agent transmet sa déclaration.  
+L’établissement veillera à informer l’agent de ce  délai de déclaration lorsqu’il lui remettra le formulaire 
+de déclaration ou lorsqu’il lui indiquera comment le télécharger.  
+a) Formulaire de déclaration  
+Le formulaire est complété par l’agent ou, si son état de santé ne lui permet pas de le faire, par une 
+personne de confiance ou un ayant -droit de l’agent. Le service RH apporte son concours à l’agent pour 
+compléter ce formulaire s’il le souhaite.  
+L’objectif du formulaire est de guider la déclaration en visant à décrire les circonstances de lieu, de temps et d ’activité dans lesquelles l’accident ou la maladie s’est produit, la façon dont il s’est produit 
+pour un accident, et ses conséquences sur l’état de santé de l’agent.  
+Il convient en conséquence que l’agent le complète avec soin et apporte toutes précisions  utiles pour 
+permettre à l’administration de déterminer si l’accident ou la maladie bénéficie de la présomption d’imputabilité ou, si l’accident ou la maladie ne peut bénéficier de cette présomption d’imputabilité, 
+d’établir qu’il résulte de l’activité pro fessionnelle de l’agent.  
+b) Certificat médical  
+L’agent victime d’un accident de service ou d’une maladie professionnelle fait constater son état par 
+un médecin de son choix. Celui -ci établit un certificat médical sur lequel il décrit les lésions constatées 
+et leur localisation ou la nature de la maladie et les symptômes constatés ainsi que les séquelles 
+éventuelles de l'accident.  
+Le médecin délivre également, si nécessaire, un certificat d'arrêt de travail.  
+La plupart des médecins complètent un formulaire ce rfa n°11138 « certificat médical accident du 
+travail-  maladie professionnelle » et en remet les trois volets à l’agent.  
+Dans cette situation, l’agent envoie le volet 1 à l’administration dans les délais requis (voir infra § 2. 
+Délais à respecter) et conse rve les deux autres volets.  
+Si l’agent envoie à l’administration un certificat médical établi sur un autre support ( cerfa n°10170 « 
+avis d’arrêt de travail », par exemple) il y joint également un certificat complémentaire sur lequel le 
+médecin aura précis é la nature et le siège des lésions résultant de l’accident ou de la maladie.  
+ 
+ 11 
+ c) Les autres pièces susceptibles d’être jointes  
+En complément du certificat médical et selon sa situation, différentes pièces sont susceptibles d’être 
+jointes par l’agent à sa dé claration. Il convient de ne demander aux agents que les pièces directement 
+utiles à l’instruction.  
+Par ailleurs, les documents ayant un caractère médical sont nécessairement remis sous pli confidentiel 
+avec la mention « secret médical ». La remise d’une e nveloppe à l’agent en même temps que la remise 
+du formulaire de déclaration de maladie professionnelle constitue une bonne pratique.  
+L’agent n’est pas la seule source de production des pièces complémentaires. Dans certaines situations, 
+il n’est pas en capacité de les produire, c’est notamment le cas de certains documents internes à 
+l’établissement (ordre de mission, attestation horaire, etc.) pour l’obtention desquels le service RH 
+procède aux démarches nécessaires.  
+ 
+d) Cas particulier des examens médicaux pr escrits par les tableaux des maladies professionnelles 
+du code de la sécurité sociale  
+Lorsque la déclaration de maladie professionnelle est faite au titre de l’un des tableaux annexés au 
+code de la sécurité sociale, afin de bénéficier de la présomption d’ imputabilité au service prévue au 
+premier alinéa du IV de l’article 21 bis de la loi n° 83 -634, la maladie doit elle -même y être inscrite et 
+les conditions prévues par le tableau doivent être réunies.  
+ 
+12 
+ Il existe trois types de conditions :  
+• Les caractéristiques de la maladie – outre la dénomination des maladies, le tableau fixe 
+également des caractéristiques médicales auxquelles la maladie déclarée doit répondre ;  
+• Le délai de prise en charge – il s’agit du délai entre la cessation d'exposition au  risque supposé 
+à l'origine de la maladie et la constatation de celle -ci. Ce délai ne doit pas excéder le délai 
+maximal figurant dans le tableau considéré. Par ailleurs, certains tableaux prévoient 
+également une durée minimale d'exposition au risque ;  
+• La liste des travaux susceptible de provoquer la maladie –  il s’agit de la liste indicative des 
+travaux qui sont susceptibles de provoquer la maladie. Certains tableaux peuvent comporter une liste limitative de ces travaux.  
+A titre d’exemple, tableau n° 1 rela tif aux maladies liées au plomb [extrait] :  
+ 
+ 
+Dans tous les cas, les examens médicaux permettant de caractériser la maladie sont joints à la 
+déclaration de maladie professionnelle. Toutefois, afin de respecter le secret médical tenant à ce type 
+de documen t, l’administration doit inviter l’agent à transmettre l’ensemble de ces éléments sous pli 
+confidentiel avec la mention « secret médical ». La remise d’une enveloppe à l’agent en même temps que la remise du formulaire de déclaration de maladie professionne lle constitue une bonne pratique.  
+1. Délais à respecter  
+ 
+a) Délais de déclaration  
+Pour pouvoir être instruite par l’établissement, la déclaration doit lui parvenir dans un certain délai 
+par rapport à la survenance de l’accident ou à la constatation médicale de l a maladie. Les documents 
+annexes à la déclaration qui n’ont pu être collectés par l’agent avant l’expiration du délai peuvent faire 
+l’objet d’un envoi complémentaire ultérieur afin de ne pas retarder l’envoi de la déclaration. A cet 
+effet, il convient d’ac compagner l’agent dans ses démarches pour préciser les documents nécessaires 
+à l’instruction de sa demande.  
+Différents délais de déclaration sont prévus :  
+ 
+ 
+ 
+ 
+13 
+ • Délais de déclaration d’un accident de service ou d’un accident de trajet  
+Article 35 -3 du d écret n°88 -386 du 19 avril 1988 (extrait)  
+La déclaration d’accident de service ou de trajet prévue à l’article 35 -2 est adressée à l’autorité investie 
+du pouvoir de nomination dont relève le fonctionnaire, dans le délai de quinze jours à compter de la 
+date de l’ accident.  
+Ce délai n’est pas opposable à l’agent lorsque le certificat médical prévu au 2° de l’article 35 -2 est établi 
+dans le délai de deux ans à compter de la date de l’accident. Dans ce cas, le délai de déclaration est de 
+quinze jours à compter de la date de cette constatation médicale.  
+Le délai de principe d’envoi du formulaire de déclaration d’accident de service ou de trajet est de 15 
+jours à compter la date de l’accident, les conséquences d’un accident sur l’état de santé de la victime 
+étant, dans l a majorité des cas, immédiates.  
+Dans la situation où l’impact de l’accident sur l’état de santé de la victime n’est pas immédiatement 
+décelé, la déclaration demeure possible pendant 2 ans à compter de l’accident mais doit être effectuée 
+dans les 15 jours de sa constatation médicale.  
+Exemple 1 : un agent fait une chute dans le cadre de son service et ne souffre d’aucune douleur 
+immédiate.  
+Il ne fait pas de déclaration d’accident mais, des douleurs apparaissant, il consulte, 3 semaines après 
+sa chute, son médecin qui diagnostique une entorse.  
+L’agent dispose d’un délai de 15 jours à compter de cette consultation médicale pour effectuer sa 
+déclaration d’accident de service.  
+ 
+Exemple 2 : un agent se trouve impliqué dans un vol à main armé sur son lieu de trav ail. 
+Il ne fait pas de déclaration d’accident mais la multiplication de troubles du sommeil et de crises 
+d’anxiété le conduit à consulter, 3 mois après l’événement, son médecin qui diagnostique un choc 
+traumatique différé.  
+L’agent dispose d’un délai de 15 jours à compter de ce diagnostic pour effectuer sa déclaration 
+d’accident de service.  
+Comme il a été indiqué dans la  partie  « premiers réflexes », il est de bonne pratique, dès lors qu’un 
+accident survient sur le lieu et le temps du service et que des pers onnels ont connaissance de cet 
+accident, de prévenir les services de secours  afin que l’agent soit immédiatement pris en charge.  
+• Délais de déclaration d’une maladie professionnelle  
+Article 35 -3 du décret n°88 -386 du 19 avril 1988 (extrait)  
+II. La déclaration de maladie professionnelle prévue à l’article 35 -2 est adressée à l’autorité investie du 
+pouvoir de nomination dont relève le fonctionnaire, dans le délai de deux ans à compter de la date de 
+la première constatation médicale de la maladie ou, l e cas échéant, de la date à laquelle le 
+fonctionnaire est informé par un certificat médical du lien possible entre sa maladie et une activité 
+professionnelle.  14 
+ Lorsque des modifications et adjonctions sont apportées aux tableaux de maladies professionnelles  
+mentionnés aux articles L. 461 -1 et suivants du code de la sécurité sociale après qu’il a été 
+médicalement constaté qu’un fonctionnaire est atteint d’une maladie inscrite à ces tableaux, la 
+déclaration est adressée par l’agent à l’autorité investie du pouvoir de nomination dont il relève, dans 
+le délai de deux ans à compter de la date d’entrée en vigueur de ces modifications ou adjonctions. Dans 
+ce cas, la reconnaissance de maladie professionnelle n’emporte effet que pour les congés, honoraires 
+médicaux et  frais directement entraînés par la maladie postérieurs à cette date d’entrée en vigueur.  
+Si le lien entre des lésions et l’accident qui les a provoquées est, dans la plupart des cas, rapidement 
+établi, il n’est en revanche pas forcément immédiatement décelé au moment où la maladie se déclare.  
+Ainsi, le délai de principe d’envoi du formulaire de déclaration de maladie professionnelle, qui est de 
+2 ans commence à courir, selon les cas :  
+• Soit à compter de la date de première constatation médicale de la maladie ;  
+• Soit à compter de la date du certificat médical établissant un lien entre une maladie déjà 
+constatée et l’activité professionnelle de l’agent.  
+Par ailleurs, les tableaux de maladies professionnelles du code de la sécurité sociale font l’objet 
+d’actual isations régulières afin de prendre en compte les évolutions des pathologies et celles du 
+monde du travail. Ces actualisations peuvent se traduire par :  
+• La création de nouveaux tableaux ;  
+• La modification des tableaux existants.  
+Dans ces situations, le déla i de 2 ans commence à courir à compter de la date de publication du décret 
+qui prévoit l’inscription de la maladie aux tableaux ou la modification de ces tableaux.  
+Exemple : un agent est atteint d’une pathologie, médicalement constatée le 2 novembre 2010.  
+Le 15 juin 202X cette pathologie fait l’objet d’une inscription à un tableau de maladie professionnelle 
+du code de la sécurité sociale. La pathologie présentée par l’agent satisfait aux conditions de délai de 
+prise en charge et les travaux qu’il a accompli s correspondent à la liste limitative de travaux 
+susceptibles de provoquer cette maladie. Il dispose d’un délai de 2 ans à compter du 15 juin 202X pour 
+effectuer sa déclaration de maladie professionnelle.  
+- Dérogations aux délais de déclaration (accidents et maladies)  
+Article 35 -3 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Les délais prévus aux I, II et III ne sont pas applicables lorsque le fonctionnaire entre dans le champ de 
+l’article L. 169 -1 du code de la sécurité sociale ou s’il justifie d’un cas de force majeure, d’impossibilité 
+absolue ou de motifs légitimes.  
+Les dispositions du dernier alinéa de l’article 35 -3 du décret n°88 -386 du 19 avril 1988 permettent à 
+l’administration de ne pas opposer les délais de déclaration des accidents et maladies l orsque les 
+circonstances le justifient.  
+Champ de l’article L. 169 -1 du code de la sécurité sociale : 
+Il s’agit des personnes victimes d'un acte de terrorisme, présentes sur les lieux de l'acte de terrorisme et ayant subi un dommage physique ou psychique im médiat directement lié à cet acte ou qui, 15 
+ ultérieurement à cet acte, présentent un dommage physique ou psychique qui lui est directement lié 
+et qui ont expressément été identifiées comme telles.  
+Cas de force majeure, d’impossibilité absolue ou de motifs lé gitimes :  
+La notion de force majeure recouvre traditionnellement un évènement présentant les trois caractères 
+suivants : extériorité, imprévisibilité et irrésistibilité (inondation après de violents orages, incendie, etc.).  
+L’impossibilité absolue  désigne  l’abolition des facultés physiques ou mentales (coma, crise de 
+démence, accident mortel, etc.).  
+Les motifs légitimes peuvent être variés. Deux exemples, non exhaustifs :  
+• Hospitalisation avec impossibilité de faire informer l’employeur par un intermédiaire  ; 
+• Événement familial grave (décès ou hospitalisation d’un proche).  
+ 
+b) Délai de transmission de l’arrêt de travail  
+Lorsque l’état de santé de l’agent donne lieu à arrêt de travail (voir §1. ci- dessus c) Certificat médical)) 
+cet arrêt est, comme tout arrêt de travail, transmis à l’administration dans les 48 heures suivant son 
+établissement.  
+Article 35 -3 du décret n°88 -386 du 19 avril 1988 (extrait)  
+III.  Dans tous les cas, lorsque l’accident de service, l’accident de trajet ou la maladie professionnelle 
+entraîne une incapacité temporaire de travail, le fonctionnaire adresse à l’autorité investie du pouvoir 
+de nomination dont il relève, dans le délai de quarante -huit heures suivant son établissement, le 
+certificat médical prévu au 2° de l’article 35 -2. En cas d’envoi de l’avis d’interruption de travail au- delà 
+de ce délai de quarante -huit heures, le montant de la rémunération afférente à la période écoulée entre 
+la date d’établissement de l’avis d’interruption de travail et la date d’envoi de celui -ci à l’autorité 
+investie du pouvoir de nomination peut être réduit de moitié. La rémunération à prendre en compte 
+pour cette réduction comprend le traitement indi ciaire brut ainsi que les primes et indemnités perçues 
+par l’agent à l’exception de celles énumérées aux 1° à 10° de l’article 15.  
+Si ce délai n’est pas respecté, la rémunération de l’agent peut être réduite de moitié entre la fin du délai de 48 heures et l’envoi effectif de la déclaration.  
+Dans ces situations l’agent doit respecter deux délais distincts :  
+• Le délai d’envoi de son arrêt de travail qui est toujours de 48 heures ;  
+• Le délai d’envoi de sa déclaration, variable selon la nature de la situation don t il a été 
+victime.  
+Le non -respect du délai du délai de 48 heures ne doit pas rendre impossible la déclaration.  
+Exemple : le 15 février, un agent fait une chute dans le cadre de son service et souffre de douleurs à la 
+cheville.  
+Il consulte son médecin 3 jo urs après sa chute, le 18 février, le médecin diagnostique une entorse et 
+l’arrête aussitôt.  
+L’agent dispose d’un délai de 48 heures à compter du 18 février pour adresser à l’administration son 
+arrêt de travail, soit jusqu’au 20 février.  16 
+ - S’il envoie son arrêt le 21 février, le délai de transmission n’est pas respecté et sa 
+rémunération peut être réduite de moitié pour 1 jour.  
+- S’il envoie son arrêt le 25 février, le délai de transmission n’est pas respecté et sa 
+rémunération peut être réduite de moitié pendant 5 jours (25 -20). 
+ 
+Il dispose d’un délai de 15 jours à compter du 18 février pour adresser à l’administration sa 
+déclaration d’accident de service, soit jusqu’au 5 mars.  
+Il convient de faire application des règles de droit commun en matière de délai.  Ainsi, le délai qui 
+expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu’au 
+premier jour ouvrable suivant.  
+Les actions de  l’établissement  
+A réception de la déclaration d’accident de service, d’accident de trajet ou de maladie professionnelle 
+d’un agent, le service RH remet ou adresse à l’agent un récépissé ou accusé de réception rappelant la 
+date de cette déclaration. Différentes actions sont ensuite conduites par l’établissement pour lui 
+permettre de reconnaître l’imp utabilité au service et de placer l’agent en CITIS.  
+Si la présente fiche détaille l’ensemble des actions que l’ établissement peut être amenée à engager, 
+elles ne sont pas toutes forcément nécessaires, la présomption d’imputabilité au service ayant 
+vocation  à s’appliquer et permettant la reconnaissance rapide de l’imputabilité au service sans qu’il 
+soit systématiquement nécessaire de recourir à une enquête administrative, une expertise médicale 
+ou à la saisine de la commission de réforme.  
+Voir le schéma d’ensemble de la procédure en annexe 3  
+1. Contrôle du respect des délais par l’agent  
+a) Décompte  
+Le décompte du délai de déclaration est effectué selon les principes des articles 641 et 642 du code de 
+procédure civile.  
+La date à prendre en compte pour déterminer si le délai est respecté est la date d’envoi de la 
+déclaration par l’agent par courrier (cachet de la poste faisant foi) ou de remise d e la déclaration au 
+service RH.  
+Code de procédure civile  
+Article 641 (extrait) : Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision 
+ou de la notification qui le fait courir ne compte pas. Lorsqu'un délai est exprimé en mois ou en années, 
+ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour 
+de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut d'un 
+quantiè me identique, le délai expire le dernier jour du mois.  
+Article 642  : Tout délai expire le dernier jour à vingt -quatre heures.  
+Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé 
+jusqu'au premier jour ouvrable suivant  
+ 17 
+ Les exemples ci -dessous illustrent les modalités du décompte du délai de 15 jours prévu au I de l’article 
+35-3 (déclaration d’accident de service ou de trajet). Les mêmes principes s’appliquent pour les 
+déclarations de maladies professionnelles.  
+ 
+b) Rejet de la demande  
+Article 35 -3 du décret n°88 -386 du 19 avril 1988 (extrait)  
+IV.  Lorsque les délais prévus au I et II ne sont pas respectés, la demande de l’agent est rejetée.  
+Dans la situation où les délais prévus à l’article 35 -3 n’ont pas été respecté s par l’agent et s’il ne peut 
+justifier d’un cas de force majeure, d’impossibilité absolue ou de motifs légitimes, l’établissement lui 
+adresse une décision de rejet de sa demande, lui indiquant les raisons de ce rejet et l’informant des 
+voies et délais de recours.  
+Il est recommandé :  
+• De faire référence expresse à l’article 35 -3 du décret n°88 -386 du 19 avril 1988  ; 
+• De préciser le délai de déclaration correspondant à la situation de l’agent ;  
+• D’indiquer les dates retenues pour le calcul de ce délai et la date limite à laquelle l’agent aurait dû déclarer.  
+ 
+2. Information d u chef d’établissement et du médecin du travail  
+L’instruction des déclarations d’accidents de service ou de maladies professionnelles relève de la 
+compétence du service RH mais elle doit pren dre en compte les éléments d’information connu s du  
+chef d’établissement (de l’ARS  ou de la préfecture s’agissant d’un directeur chef d’établissement)  de 
+l’agent et ce que lui communique le médecin du travail.   
+18 
+ 
+a) Rôle du supérieur hiérarchique direct  
+Le supérieur hiérarchique direct  n’intervient pas dans la transmission de la déclaration d’accident ou 
+de maladie professionnelle. Cette déclaration est adressée directement au service RH dont dépend 
+l’agent. A réception, ce service informe le supérieur hiérarchique direct de  toute déclaration d’accident 
+de service ou de maladie professionnelle qui concerne son périmètre.  
+Lorsqu’il est informé de ces situations, le supérieur hiérarchique direct  s’assure que la fiche 
+d’information relative aux accidents de serv ice et maladies professionnelles a été remise à l’agent, ou 
+la lui remet, le cas échéant.  
+En cas de déclaration de maladie professionnelle et dans certaines situations d’accidents de service, si 
+nécessaire, un rapport d’activité professionnelle décrivant les tâches habituelles de l’agent peut être demandé au supérie ur hiérarchique direct  par le service RH. Il peut également être sollicité pour 
+apporter toutes précisions concernant les circonstances de l’accident ou de la maladie, notamment les 
+activités hab ituelles de l’agent. Ces éléments d’information viennent abonder l’enquête administrative 
+menée par le service RH (voir infra § 4. Enquête administrative).  
+Le supérieur hiérarchique direct fournit les éléments d’appréciation nécessaires  
+au service RH.  
+Il ne lui appartient pas de se prononcer sur l’imputabilité au service de  
+ l’accident ou de la maladie.  
+ 
+b) Rôle du médecin d u travail  
+Article 35 -7 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+Lorsque la déclaration est présentée au titre du même IV, le médecin du travail remet un rapport à la 
+commission de réforme, sauf s’il constate que la maladie satisfait à l’ensemble des conditions prévues 
+au premier alinéa de ce IV. Dans ce dernier cas, il en informe l’autorité investie du pouvoir de 
+nomination.  
+Le médecin du travail reçoit copie de toutes les déclarations de maladie professionnelle.  
+• S’il s’agit d’une maladie inscrite aux tableaux du code de la sécurité sociale :  
+Il établit si la maladie de l’agent répond aux différents critères de ces tableaux (désignation des 
+maladies, délai de prise en charge, liste limitative de travaux susceptibles de provoquer ces maladies). 
+Il peut, à cette occasion et si l’état de santé de l’agent le permet, le recevoir ou lui demander d’apporter 
+des éléments d’information com plémentaires. Il indique à l’établissement au vu des éléments dont il 
+dispose, si la maladie satisfait ou non aux conditions de ces tableaux. Lorsque la maladie ne satisfait 
+pas à l’ensemble des critères de ces tableaux ou lorsque les éléments dont il disp ose ne lui permettent 
+pas d’établir si elle y satisfait, il en informe l’établissement et rédige un rapport à destination de la 
+commission de réforme.  
+• S’il s’agit d’une maladie qui n’est pas inscrite aux tableaux du code de la sécurité sociale, il 
+rédige un rapport à destination de la commission de réforme.  
+Lorsqu’il rédige un rapport à destination de la commission de réforme, ce rapport est, soit, directement 
+transmis à la commission, soit, remis sous pli confidentiel à l’établissement, qui le transmet à la 
+commission de réforme lorsqu’elle est saisie. Lorsque le médecin du travail transmet son rapport 
+directement à la commission de réforme, il en informe le service RH de gestion des ASMP.  19 
+ 
+3. Expertise médicale  
+Article 35 -4 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+L’autorité investie du pouvoir de nomination qui instruit une demande de congé pour invalidité 
+temporaire imputable au service peut :  
+Faire procéder à une expertise médicale du demandeur par un médecin agréé lorsque des circonstances 
+particulières paraissent de nature à détacher l’accident du service ou lorsque l’affection résulte d’une 
+maladie contractée en service telle que définie au IV de l’article 21 bis de la loi du 13 juillet 1983 
+susvisée . 
+La possibilité pour l’établissement de faire procéder à expertise médicale en vue de reconnaitre 
+l’imputabilité au service d’un accident ou d’une maladie est variable selon les situations.  
+Dans tous les cas,  
+L’établissement qui fait procéder à expertise médicale doit, lorsqu’elle  
+saisit le médecin agréé, lui précise que  
+ seules les conclusions de cette expertise doivent lui être transmises   
+et que le rapport complet d’expertise doit être transmis sous enveloppe cachetée  
+ indiquant clairement « pli confidentiel –  secret médical ».  
+ 
+L’agent a toujours la possibilité de connaître le détail d’une expertise médicale le concernant. Le 
+service RH ne pouvant en faire de copies, il convient de définir les modalités de consultation de cette 
+expertise afin de préserver le secret médical.  
+• En cas d’accide nt de service , survenu dans le temps et le lieu du service, dans l'exercice ou à 
+l'occasion de l'exercice des fonctions ou d'une activité qui en constitue le prolongement, 
+l’établissement ne peut demander d’expertise médicale que si elle a déjà connaissanc e de 
+circonstances particulières  qui seraient de nature à détacher l’accident du service.  
+Ainsi, l’expertise médicale ne doit pas être utilisée comme un moyen d’investigation 
+systématique en vue d’établir de telles circonstances afin de refuser l’imputabil ité au service 
+ou renverser la charge de la preuve sur l’agent.  
+Elle permet de vérifier la cohérence entre la lésion présentée et les circonstances de l’accident 
+(exemple : un tel accident ne peut conduire à tel type de lésion).  
+• En cas d’accident de trajet , qui ne bénéficie pas de la présomption d’imputabilité, 
+l’établissement a la possibilité de diligenter une expertise médicale afin vérifier l’imputabilité au service des lésions déclarées.  
+Exemple : Un agent est victime d’une chute pendant son trajet domi cile-travail. Il souffre de douleurs 
+au genou.  
+L’établissement a la possibilité de faire pratiquer une expertise médicale avant de reconnaître 
+l’imputabilité au service afin de s’assurer que ces douleurs sont liées à l’accident et ne résultent pas 
+d’un état antérieur.  
+• En cas de maladie professionnelle inscrite aux tableaux du code de la sécurité sociale , 
+l’établissement a la possibilité de solliciter une expertise médicale afin de se prononcer sur 
+l’imputabilité au service si le médecin de prévention (voir supra § 2 b « Rôle du médecin de 20 
+ prévention ») lui a fait connaître que la maladie présentée par l’agent ne satisfait pas à 
+l’ensemble des critères de ces tableaux ou que les éléments dont il dispose ne lui permettent 
+pas d’établir si elle y satisfait.  
+ 
+• En cas de maladie professionnelle qui n’est pas inscrite aux tableaux du code de la sécurité 
+sociale , l’établissement fait pratiquer une expertise médicale afin de déterminer :  
+- si la maladie est essentiellement et directement causée par l’exercice des foncti ons ;  
+- et si elle est susceptible d’entraîner un taux minimum d’incapacité permanente, fixé à 25 %.  
+Article 35 -8 du décret n°88 -386 du 19 avril 1988  
+Le taux d’incapacité permanente servant de seuil pour l’application du troisième alinéa du même IV est 
+celui prévu à l’article R. 461 -8 du code de la sécurité sociale.  
+Ce taux correspond à l’incapacité que la maladie est susceptible d’entraîner. Il est déterminé par la 
+commission de réforme compte tenu du barème indicatif d’invalidité annexé au décret pris en 
+application du quatrième alinéa de l’article L. 28 du code des pensions civ iles et militaires de retraite.  
+ 
+Article R. 461- 8 du code de la sécurité sociale  
+Le taux d'incapacité […] est fixé à 25 %.  
+ 
+4. L’enquête administrative  
+Article 35 -4 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+L’autorité investie du pouvoir de nomination qui instruit une demande de congé pour invalidité 
+temporaire imputable au service peut : […] Diligenter une enquête administrative visant à établir la 
+matérialité des faits et les circ onstances ayant conduit à la survenance de l’accident ou l’apparition de 
+la maladie . 
+Au vu des éléments transmis par l’agent, des informations collectées auprès de son chef 
+d’établissement et du médecin de prévention, l’établissement doit se prononcer sur l’imputabilité au 
+service de l’accident ou de la maladie déclarée en veillant au respect du principe de présomption 
+d’imputabilité au service instauré par l’article 21 bis de la loi du 13 juillet 1983 en matière d’accidents 
+de service (hors accident de tra jet) et de certaines maladies professionnelles.  
+L’enquête, selon la nature du dossier, porte sur différents points qui conduiront l’établissement à 
+reconnaitre l’imputabilité au service ou à saisir la commission de réforme pour avis avant de se 
+prononcer :  
+• Dans les situations d’accident de service  : 
+- Accident survenu dans le temps du service  
+- Accident survenu dans le lieu du service  
+- Accident survenu dans l'exercice de ses fonctions ou à l'occasion de l'exercice de ses 
+fonctions ou d'une activité qui en consti tue le prolongement normal  
+- Absence de faute personnelle  
+- Absence de circonstance particulière détachant l’accident du service  21 
+  
+• Dans les situations d’accident de trajet  :  
+- Preuve apportée par l’agent ou établie par l’enquête administrative que l’accident est  
+survenu sur le parcours habituel entre le lieu où s'accomplit le service de l’agent et sa 
+résidence ou son lieu de restauration  
+- Preuve apportée par l’agent ou établie par l’enquête administrative que l’accident est 
+survenu pendant la durée normale pour ef fectuer ce parcours  
+- Absence de fait personnel de l’agent ou de circonstance particulière étrangère aux nécessités de la vie courante de nature à détacher l'accident du service  
+ 
+• Dans les situations de maladie professionnelle  : 
+- Éléments permettant d’établir que la maladie correspond à une maladie désignée par les 
+tableaux de maladies professionnelles et qu’elle remplit les conditions mentionnées à ces tableaux  
+- Éléments permettant d’établir que la maladie correspond à une maladie désignée par les tableaux de m aladies professionnelles et qu’elle est directement causée par l’activité 
+professionnelle de l’agent même si elle ne remplit pas les conditions mentionnées à ces 
+tableaux  
+- Éléments permettant d’établir que la maladie est essentiellement et directement causé e 
+par l’activité professionnelle de l’agent et qu'elle entraîne une incapacité permanente d'un 
+taux au moins égal à 25 %  
+ 
+5. Saisine de la commission de réforme  
+Voir annexe 4 du présent guide, les règles d’organisation et de fonctionnement des commissions de 
+réforme.  
+Article 35 -6 du d écret n°88 -386 du 19 avril 1988  
+La commission de réforme est consultée :  
+1° Lorsqu’une faute personnelle ou toute autre circonstance particulière est potentiellement de nature 
+à dé tacher l’accident du service ;  
+2° Lorsqu’un fait personnel du fonctionnaire ou toute autre circonstance particulière étrangère 
+notamment aux nécessités de la vie courante est potentiellement de nature à détacher l’ accident de 
+trajet du service ;  
+3° Lorsque l’affection résulte d’une maladie contractée en service telle que définie au IV de l’article 21 
+bis de la loi du 13 juillet 1983 susvisée dans les cas où les conditions prévues au premier alinéa du même 
+IV ne sont pas remplies.  
+La saisine de la commission de réforme pour avis n’est possible que dans certaines situations :  
+• Lorsque, à l’issue de l’examen de l’imputabilité au service, les éléments dont dispose 
+l’employeur ne lui permettent pas de reconnaître l’imputabilité au service ;  
+• En cas de maladie professionnelle non inscrite aux tableaux du code de la sécurité sociale ou 
+qui ne satisfait pas aux conditions de ces tableaux.  22 
+ En cas d’accident de service , l’emp loyeur indique à la commission les éléments qui le conduisent à 
+considérer, selon les situations :  
+• Que l’accident n’est pas survenu dans le temps du service ;  
+• Que l’accident n’est pas survenu dans le lieu du service ;  
+• Que l’accident n’est pas survenu dans l'exercice ou à l'occasion de l'exercice des fonctions de 
+l’agent ou d'une activité qui en constitue le prolongement normal ;  
+• Qu’une faute personnelle ou une circonstance particulière – à préciser par l’employeur –  est 
+de nature à détacher l’accident du se rvice.  
+En cas d’accident de trajet , l’employeur indique à la commission les éléments qui le conduisent à 
+considérer, selon les situations :  
+• Que l’accident n’est pas survenu sur le parcours habituel de l’agent entre son service et son lieu de restauration o u sa résidence ;  
+• Que l’accident n’est pas survenu pendant la durée normale pour effectuer son parcours ;  
+• Qu’un fait personnel ou une circonstance particulière –  à préciser par l’employeur –  est de 
+nature à détacher l’accident du service.  
+En cas de maladie professionnelle inscrite aux tableaux du code de la sécurité sociale  mais pour 
+laquelle le médecin de prévention considère que la maladie ne satisfait pas à l’ensemble des critères de ces tableaux, ou que les éléments dont il dispose ne lui permettent pas d’établir si elle y satisfait, 
+l’employeur transmet à la commission de réforme l’avis émis par le médecin de prévention ainsi que 
+l’expertise médicale qui aura pu être diligentée (voir §3 ci- dessus).  
+En cas de maladie professionnelle qui n’est pas inscrite  aux tableaux du code de la sécurité sociale , 
+l’employeur :  
+• Indique à la commission les éléments qui le conduisent à considérer que la maladie n’est pas 
+essentiellement et directement causée par l’exercice des fonctions ;  
+• Transmet, sous pli confidentiel, l’expertise médicale qui aura été diligentée (voir §3 ci- dessus).  
+Dans ces situations, la commission de réforme :  
+• Détermine le taux minimum d’incapacité permanente que la maladie est susceptible 
+d’entraîner ;  
+• Émet un avis sur l’imputabilité au service de la maladie.  
+Dans tous les cas  (accident de service, de trajet, maladie professionnelle) lorsqu’il saisit la commission 
+de réforme l’employeur joint à sa saisine :  
+• Copie de la déclaration établie par l’agent ou son représentant ;  
+• Copie du certificat médical ;  
+• Copie de toutes pièces relatives à l’accident ou à la maladie utiles à l’avis de la commission (témoignages, rapports et constatations recueillis) ;  
+• Documents médicaux reçus et transmis sous pli confidentiel.  
+Si la saisine pour avis de la commission de ré forme est obligatoire dans les cas prévus à l’article 35 -6 
+du d écret n°88 -386 du 19 avril 1988 , cet avis ne lie pas l’établissement mais le secrétariat de la 
+commission de réforme doit être informé, conformément aux termes des articles 16 et 21 de ce décret, 
+des décisions qui ne sont pas conformes à l’avis émis.  
+ 23 
+ 6. Situation de l’agent dans l’attente de la décision de l’employeur et délais pour l’employeur  
+Même si la déclaration d’accident ou de maladie est transmise dans les délais réglementaires à 
+l’établis sement, l’agent ne peut bénéficier du CITIS que lorsque celle -ci lui aura notifié la décision 
+correspondante. Dans l’attente de cette décision, et pendant toute la durée d’instruction de sa 
+demande, il est placé en congé de maladie (s’il a transmis un arrê t de travail) et les honoraires 
+médicaux et les frais médicaux liés à cet accident ou à cette maladie demeurent à sa charge.  
+Un délai est toutefois imparti à l’établissement pour rendre sa décision. Ce délai court à compter de la réception de la déclaratio n complète (formulaire de déclaration + certificat médical et ses examens 
+complémentaires) par l’établissement.  
+Il peut être prolongé dans certaines situations.  
+Article 35 -5 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+Pour se prononcer sur l’imputabilité au service de l’accident ou de la maladie, l’autorité investie du 
+pouvoir de nomination dispose d’un délai :  
+1° En cas d’accident, d’un mois à compter de la date à laquelle elle reçoit la déclaration d’accident et 
+le certificat médical ;  
+2° En cas de maladie, de deux mois à compter de la date à laquelle elle reçoit le dossier complet 
+comprenant la déclaration de la maladie professionnelle intégrant le certificat médical et le résultat 
+des examens médicaux complémentaires le cas échéant prescr its par les tableaux de maladies 
+professionnelles.  
+Un délai supplémentaire de trois mois s’ajoute aux délais mentionnés au 1° et au 2° en cas d’enquête 
+administrative diligentée à la suite d’une déclaration d’accident de trajet ou de la déclaration d’une 
+maladie mentionnée au troisième alinéa du IV de l’article 21 bis de la loi du 13 juillet 1983 susvisée, 
+d’examen par le médecin agréé ou de saisine de la commission de réforme compétente. Lorsqu'il y a 
+nécessité d'examen ou d'enquête complémentaire, l’emplo yeur doit en informer l’agent ou ses ayants 
+droit.  24 
+  
+Exemple : Un agent déclare une affection de l’épaule au titre du tableau n° 57 (Affections péri  
+articulaires provoquées par certains gestes et postures de travail).  
+S’il s’agit d’une tendinopathie chroni que, le tableau indique qu’elle doit être « objectivée par IRM ou 
+un arthroscanner en cas de contre -indication à IRM ».  
+Dans cette situation le délai de l’administration commence à courir lorsqu’elle reçoit, sous pli 
+confidentiel, les résultats de cet IRM ou de l’arthroscanner.  
+Le délai supplémentaire n’excède jamais 3 mois, même si le dossier de l’agent répond à plusieurs 
+critères de prolongation (exemple : examen par un médecin agréé et  saisine de la commission de 
+réforme).  
+Au terme du délai d’instruction  initial, si l’établissement n’est pas en mesure de rendre sa décision, et 
+si elle peut bénéficier d’un délai supplémentaire d’instruction, elle doit en informer l’agent.  
+Enfin, au terme du délai maximum d’instruction dont elle dispos e, l’établissement  (ou l’AIPN s’agissant 
+des personnels de direction) , si elle ne peut rendre sa décision, doit placer l’agent en congé pour 
+invalidité temporaire imputable au service à titre provisoire.  
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 7. Placement en CITIS à titre provisoire  
+Article 35 -5 du décret n° 88 -386 du 19 avril 1988 (extrait)  
+Au terme de ces délais, lorsque l’instruction par l’autorité investie du pouvoir de nomination n’est pas 
+terminée, l’agent est placé en congé pour invalidité temporaire imputable au service à titre provisoire 
+pour la durée  indiquée sur le certificat médical prévu au 2° de l’article 35 -2 et au dernier alinéa de 
+l’article 35 -9. Cette décision, notifiée au fonctionnaire, précise qu'elle peut être retirée dans les 
+conditions prévues à l'article 35 -9. 
+Le placement en CITIS à titre provisoire doit demeurer exceptionnel et il convient que l’établissement 
+prenne toutes dispositions pour éviter de devoir y recourir compte tenu des conséquences financières 
+potentielles pour l’agent en cas de décision finale refusant l’imputabilité au service de l’accident ou de 
+la maladie.  
+a) Notification  
+La décision de placement d’un agent en CITIS à titre provisoire lui est notifiée par a rrêté  (de l’AIPN 
+pour les personnels de direction) . Cet arrêté précise que :  
+- L’instruction de la déclaration d’accide nt de service du … (ou de maladie professionnelle) 
+qu’il a effectuée le ... est toujours en cours ;  
+- Conformément aux dispositions du dernier alinéa de l’article 35 -5 décret n° 88 -386 du 19 
+avril 1988 , au terme des délais d’instruction prévus par ce décret,  il est placé en congé 
+pour invalidité temporaire imputable au service à titre provisoire du … (date de début du premier arrêt de travail en lien avec l’accident ou la maladie) au ... (date de fin du dernier arrêt de travail reçu en lien avec l’accident ou  la maladie) ;  
+- Il bénéficie, en conséquence, à titre provisoire, des droits prévus par l’article 21 bis de la 
+loi n° 83 -634 du 13 juillet 1983 portant droits et obligations des fonctionnaires –  
+conservation de l’intégralité de son traitement et remboursement des honoraires 
+médicaux et des frais directement entraînés par l'accident (ou la maladie) ;  
+- Conformément aux dispositions du deuxième alinéa de l’article 35 -9 du même décret, 
+cette décision pourra être retirée si, au terme de l’instruction de sa demande , 
+l’imputabilité au service de cet accident (cette maladie) n’est pas reconnue et qu’il sera 
+alors procédé aux mesures nécessaires au reversement des sommes indûment versées.  
+ 
+b) Conséquences  
+Le placement d’un agent en CITIS à titre provisoire produit les mêm es effets en termes de 
+rémunération et de prise en charge des frais et honoraires médicaux que le placement en congé pour invalidité temporaire imputable au service. Il produit ses effets jusqu’à décision de reconnaissance ou de refus de reconnaissance d’i mputabilité au service de l’accident ou de la maladie par l’AIPN .  
+En cas de prolongation d’arrêt de travail, une décision complémentaire de placement en congé pour 
+invalidité temporaire imputable au service à titre provisoire est adressée à l’agent.  
+En cas de décision de refus de reconnaissance d’imputabilité au service de l’accident ou de la maladie, 
+la situation de l’agent est régularisée par défaut dans le champ de la maladie ordinaire. Il est procédé 
+à la récupération des sommes indument versées duran t la période de CITIS provisoire. Il est 
+recommandé, notamment dans le cas de situations difficiles pour les agents ayant été placé en CITIS 26 
+ provisoire sur une longue période, de procéder à un étalement sur plusieurs mois des retenues à 
+effectuer à ce titr e.  
+En tout état de cause ces retenues ne pourront conduire à un prélèvement mensuel supérieur à celui de la quotité saisissable. Il convient par ailleurs d’accompagner l’agent notamment au regard de 
+l’établissement des honoraires médicaux et des frais qu’ il serait alors susceptible de voir pris en charge 
+par son régime de base de sécurité sociale. Il est rappelé que le délai de carence prévu à l’article 115 
+de la loi de finances pour 2018 n’est pas applicable aux arrêts de travail en lien avec un accident ou 
+une maladie d’origine professionnelle. Lorsque le fonctionnaire est placé en CITIS rétroactivement à 
+un congé de maladie, il y a donc lieu de procéder au remboursement de la retenue au titre du jour de 
+carence qui aura éventuellement été faite.  
+Décision  de l’AIPN  
+ 
+1. Décision de l’AIPN  
+Au terme de l’analyse menée par l’établissement (coordonnée  par l’ARS  ou la préfecture s’agissant 
+d’un directeur chef d’établissement) avant de reconnaître l’imputabilité au service d’un accident ou d’une maladie déclarés pa r un agent, l’AIPN prend  sa décision.  
+Article 35 -9 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Au terme de l’instruction, l’autorité investie du pouvoir de nomination dont relève le fonctionnaire se 
+prononce sur l’imputabilité au service […].  
+Il notifie sa décision à l’agent en l’informant des voies et délais de recours dont il dispose.  
+a) Refus de reconnaissance d’imputabilité au service  
+ Notification du refus  
+Une décision de non -reconnaissance d’imputabilité au service d’un accident ou d’une maladie 
+constitue une décision administrative individuelle défavorable qui, en tant que telle, doit être motivée. 
+La motivation doit contenir des éléments de droit et de fait.  
+Code des relations entre le public et l’ établissement  
+Article L. 211- 2 (extrait)  
+Les per sonnes physiques ou morales ont le droit d'être informées sans délai des motifs des décisions 
+administratives individuelles défavorables qui les concernent.  
+A cet effet, doivent être motivées les décisions qui :  
+[…] 
+6° Refusent un avantage dont l'attributi on constitue un droit pour les personnes qui remplissent les 
+conditions légales pour l'obtenir  
+Article L. 211- 5 
+La motivation […] doit être écrite et comporter l'énoncé des considérations de droit et de fait qui 
+constituent le fondement de la décision.  
+La motivation de droit  est la référence des textes fondant la décision.  27 
+ Exemple : « Au regard des dispositions de l’article 21 bis de la loi n° 83 -634 du 13 juillet 19893 portant 
+droits et obligations des fonctionnaires et des dispositions de l’article XXX du décret n°88 -386 du 19 
+avril 1988 » . 
+La motivation de fait  doit être suffisamment claire et détaillée pour que la décision soit aisément 
+comprise par son destinataire ; le cas échéant, elle précise les circonstances particulières, la faute ou 
+le fait personnel qui conduisent l’établissement à ne pas reconnaitre l’imputabilité au service  
+Exemple : « l'affection mettant l'agent dans l'incapacité d'exercer ses fonctions ne trouve pas son 
+origine dans son activité professionnelle, l’enquête administrative ayant établi que l’accident est 
+survenu au domicile de M. X et  non sur le trajet entre le domicile de M. X et son lieu de travail » . 
+La motivation par référence à l'avis de la commission de réforme est possible à la double condition que 
+le procès -verbal de la commission soit joint à la décision et que l'avis de la co mmission de réforme soit 
+lui-même motivé.  
+Enfin, la motivation de la décision ne doit pas amener l'établissement à inscrire des informations qui 
+porteraient atteinte au secret médical même si l'unique destinataire de la décision est l'agent.  
+ Régularisatio n en cas de CITIS provisoire  
+Article 35 -9 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Lorsque l’autorité investie du pouvoir de nomination ne constate pas l’imputabilité au service, elle retire 
+sa décision de placement à titre provisoire en congé pour invalidité temporaire imputable au service et 
+procède aux mesures nécessaires au reversement des sommes indûment versées.  
+Dans les situations où, au terme du délai maximum d’instruction dont elle dispose, l’ AIPN , n’a pu 
+prendre sa décision et a placé l’agent  en congé pour invalidité temporaire imputable au service à titre 
+provisoire, la notification de refus de reconnaissance d’imputabilité au service doit expressément : 
+- Retirer la décision de placement en CITIS provisoire ;  
+- Si l’agent a bénéficié d’arrêts de travail, le placer en congé pour raisons de santé2, en fonction 
+des droits dont il dispose et selon la procédure dont relève ce congé ;  
+- Indiquer qu’il sera demandé à l’agent de reverser les sommes indûment perçues au titre du CITIS provisoire.  
+Les régularisations à opérer peuvent porter :  
+- Sur le traitement ( exemple : reprise du plein traitement si, en congé de maladie, la situation de 
+l’agent conduit à le rémunérer à demi -traitement ) 
+- Sur le remboursement d’honoraires et frais médicaux.  
+Les établissements veilleront à prendre toutes dispositions pour que le reversement de ces sommes, 
+tout en respectant les règles de prescription et de recouvrement, soit opéré avec bienveillance et dans 
+le respect du barème des saisies et cessions des rémunérations
+3. Si la situation de l’agent le justifie, et 
+s’il en fait la demande, un échelonnement de sa dette pourra être examiné. Il est également préconisé 
+d’indiquer à l’agent que les honoraires et frais médicaux qui ne seraient pas pris en charge peuvent 
+l’être par le ré gime de base de sécurité sociale auquel l’agent est affilié.  
+                                                           
+2 Congé de maladie, congé de longue maladie ou congé de longue durée  
+3 Application des articles L.3252- 2, R.3252- 2, R. 3252 -3 et R.3252- 4 du code du travail, conformément aux 
+articles L 212- 1 et L 212 -2 du code des procé dures civiles d’exécution  28 
+ b) Reconnaissance d’imputabilité au service  
+Article 35 -9 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Au terme de l’instruction, l’autorité investie du pouvoir de nomination dont relève le fonctionnaire se 
+prononce sur l’imputabilité au service et, lorsqu’elle est constatée, place le fonctionnaire en congé pour 
+invalidité temporaire imputable au service pour la durée de l’arrêt de travail . 
+ […] 
+Si la demande de congé est présentée au cours d’un congé antérieurement accordé dans les conditions 
+prévues aux 2°, 3° et 4° de l’article 41 de la loi du 9 janvier 1986 susvisée, la première période de congé 
+pour invalidité temporaire imputable au service part du premier jour du congé initialement acco rdé. 
+Pour obtenir la prolongation du congé initialement accordé, le fonctionnaire adresse un nouveau 
+certificat médical à l’autorité investie du pouvoir de nomination dont il relève précisant la durée 
+probable de l’incapacité de travail.  
+La décision reconn aissant l'imputabilité au service d'un accident ou d’une maladie n’a pas à être 
+motivée mais elle doit préciser à l’agent :  
+- Qu’il est placé en CITIS ;  
+- Pour quelle période ;  
+- Qu’il percevra, durant cette période, l’intégralité de son traitement, de l’indemnité de 
+résidence, du supplément familial de traitement, ainsi que des primes et indemnités afférentes 
+à son grade et à l’échelon auquel il est parvenu.  
+Il est par ailleurs recommandé d’indiquer à l’agent qu’il devra, lorsqu’il sera guéri ou que son état de 
+santé sera stabilisé , envoyer un certificat médical constatant cette guérison ou consolidation à son 
+service RH.  S’agissant des personnels de direction, celui -ci doit être communiqué par l’établissement 
+à l’AIPN.  
+ Régularisation des congés  
+L’agent qui a dé posé une déclaration d’accident de service ou de maladie professionnelle et qui a 
+transmis à l’établissement un arrêt de travail est, dans l’attente de la décision de l’AIPN, placé  en congé 
+de maladie.  
+Il convient donc, lorsque la décision de reconnaissanc e est prise, de régulariser sa situation et de le 
+placer en congé pour invalidité temporaire imputable au service à compter du premier jour du congé 
+de maladie initialement accordé.  
+ Prolongation des arrêts de travail  
+Les arrêts de travail postérieurs à la décision de reconnaissance de l’imputabilité au service sont 
+transmis à l’établissement dans le respect des conditions de l’article 47 -2 du décret du 14 mars 1986, 
+à savoir un envoi dans les 48 heures (voir fiche « Dé marches de l’agent » §2. b) Délai de transmission 
+de l’arrêt de travail).  
+L’établissement (l’AIPN s’agissant des personnels de direction)  prend alors un nouvel acte de gestion 
+prolongeant l’agent dans le CITIS. Dans la situation où elle s’interroge sur le lien entre le nouvel arrêt 
+de travail et l’accident ou la maladie reconnu imputable au service, elle met en œuvre la procédure de 
+contre -visite prévue à l’article 35 -10 du décret du 19 avril 1988 (voir infra § 3. a) Contrôle médical).  29 
+  Information du médeci n du travail et du CHSCT  
+Article D4626- 2 du code du travail  
+Le service de santé au travail est organisé comme suit :  
+1° Dans les établissements ou syndicats inter hospitaliers de plus de mille cinq cents agents, sous la 
+forme d'un service propre à l'établ issement ou au syndicat ;  
+2° Dans les établissements ou syndicats inter hospitaliers comptant mille cinq cents agents et moins :  
+a) Soit sous la forme d'un service propre à l'établissement ou au syndicat inter hospitalier ;  
+b) Soit sous la forme d'un service commun à plusieurs établissements ou syndicats inter hospitaliers ;  
+c) Soit par convention avec un service de santé au travail interentreprises tel que défini aux articles D. 
+4622- 22 et suivants lorsque la création d'un service propre ou d'un servi ce commun se révèlerait 
+impossible.  
+Le médecin du travail  reçoit copie de toutes les déclarations de maladie professionnelle.  
+Il reçoit également copie des déclarations d’accident imputables au service.  
+Le CHSCT  est informé des accidents et maladies reconn us imputables au service.  
+c) Voies de recours  
+La décision de l’AIPN  peut  faire l’objet d’un recours administratif gracieux -  adressé à l'auteur de la 
+décision - ou hiérarchique -  adressé au chef d’établissement.  
+Elle peut également faire l’objet d’un recours  contentieux auprès d’un tribunal administratif.  
+ 
+2. Situation de l’agent en CITIS  
+a) Rémunération  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983 (extrait)  
+I. […] Le fonctionnaire conserve l'intégralité de son traitement jusqu'à ce qu'il soit en état de reprendre 
+son service ou jusqu'à la mise à la retraite  
+Article 35 -13 du Décret n°88 -386 du 19 avril 1988  
+Le bénéficiaire d’un congé pour invalidité temporaire imputable au service conserve ses avantages 
+familiaux.  
+Les fonctionnaires qui perçoivent une indemnité de résidence au moment où ils sont placés en congé 
+pour invalidité temporaire imputable au service en conservent le bénéfice dans les conditions prévues 
+à l’article 26 . 
+ 
+  30 
+ L’agent en CITIS conserve jusqu'à ce qu'il soit en état de reprendre son s ervice ou jusqu'à sa mise à la 
+retraite :  
+ L’intégralité de son traitement ;  
+ Ses primes et indemnités ;  
+ Ses avantages familiaux ;  
+ Son indemnité de résidence, s’il ne change pas de résidence ou s’il satisfait aux conditions de 
+L’article 26 du d écret n°88 -386 du 19 avril 1988 . 
+ 
+a) Prise en charge des frais et honoraires médicaux  
+Article 21 bis de la loi n° 83- 634 du 13 juillet 1983 (extrait)  
+I. [Le fonctionnaire en congé pour invalidité temporaire imputable au service] a droit […] au 
+remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou 
+l'accident.  
+Les frais et soins pris en charge sont tous ceux qui sont exposés pour traiter les conséquences sur l’état 
+de santé de l’agent de l’accident ou de la maladie dont il est atteint à la double condition :  
+ Que ces conséquences soient effectivement rattachées à l’accident ou à la maladie reconnu 
+imputable au service ;  
+ Que ces frais soient directement liés au traitement de ces conséquences.  
+Ces frais sont pris en charge dès que la décision de placer l’agent en CITIS est prise. Lorsque l’agent a 
+engagé de tels frais dans l’attente de la décision de l’établissement, ils lui sont alors remboursés.  
+Les frais sont pris en charge jusqu’à ce que l’agent soit guéri, même après la reprise du travail.  
+(Voir liste indicative des frais susceptibles d’être pris en charge à la suite d’un accident de service ou 
+d’une ma ladie professionnelle en annexe 5 au présent guide ) 
+La prise en charge des frais liés aux soins demeurant nécessaires est maintenue, sous réserve de la double condition ci -dessus, lorsque :  
+- Sans qu’il y ait guérison totale, l’état de santé de l’agent est consolidé;  
+- L’agent part en retraite.  
+ 
+b) Congés annuels et RTT  
+ Congés annuels  
+Par application de l’article 1
+er du d écret n°2002 -8 du 4 janvier 2002 relatif aux congés annuels des 
+agents des établissements mentionnés à l'article 2 de la loi n° 86 -33 du 9 janvier 1986 portant 
+dispositions statutaires relatives à la fonction publique hospitalière , l’agent en CITIS conserve ses droits 
+à congés annuels.  
+Les règles habituelles en cas de report de congés s’appliquent également en matière de CITIS.  
+ RTT 
+Les périod es pendant lesquelles l’agent est en CITIS ne peuvent générer de temps de repos lié au 
+dépassement de durée annuelle du travail.  
+ 31 
+ c) Avancement et retraite  
+Article 35 -16 décret n°88 -386 du 19 avril 1988 (extrait)  
+Le temps passé en congé pour invalidité tempor aire imputable au service, y compris les périodes durant 
+lesquelles le versement du traitement a été interrompu en application du présent titre, est pris en 
+compte pour la détermination des droits à l’avancement d’échelon et de grade ainsi que pour la 
+cons titution et la liquidation des droits à pension civile de retraite.  
+Les périodes pendant lesquelles un agent est placé en CITIS :  
+ Ouvrent droit à avancement d’échelon et de grade ;  
+ Sont prises en compte pour la constitution et la liquidation des droits à retraite.  
+ 
+d) Reprise de fonctions  
+A l’issue d’une période de CITIS, l’agent reprend son activité professionnelle sans formalité spécifique. 
+L’organisation d’une visite avec le médecin du travail est une bonne pratique, selon les situations, 
+nomment au regard  d’un éventuel aménagement du poste de travail de l’agent.  
+ Temps complet et temps partiel thérapeutique  
+La reprise de fonctions se fait à temps complet, sauf demande de l’agent ou indication contraire du 
+médecin traitant de l’agent qui doit alors établir u n certificat médical en ce sens. L’autorisation de 
+travailler à temps partiel pour raison thérapeutique est accordée par l’établissement après avis 
+concordant du médecin agréé ou, lorsque les avis du médecin traitant et du médecin agréé ne sont 
+pas concord ants, de la commission de réforme.  
+Le travail à temps partiel thérapeutique après CITIS peut être accordé pour une période d'une durée 
+maximale de six mois renouvelable une fois.  
+(Voir  l’article 41 -1 de la loi n°86 -33 du 9 janvier 1986 et circulaire du ministère de l’action et des 
+comptes publics du 15 mai 2018 relative au temps partiel pour raison thérapeutique dans la fonction 
+publique ). 
+ Affectation à la reprise  
+L’agent repren d ses fonctions sur le poste auquel il était affecté au moment de son placement en CITIS 
+sauf si son emploi a été déclaré vacant ou a été supprimé  ; auquel cas, l’agent est réintégré au 
+surnombre.  
+Article 35 -11 décret n°88 -386 du 19 avril 1988  
+Au terme du congé pour invalidité temporaire imputable au service, le fonctionnaire apte à reprendre 
+ses fonctions est réintégré dans son emploi ou, à défaut, réaffecté dans un emploi correspondant à son 
+grade, le cas échéant en surnombre. Lorsqu’il est réintégré en s urnombre, ce surnombre est résorbé à 
+la première vacance d’emploi de son grade.  
+Dans ces dernières situations, l’agent est réintégré en surnombre si nécessaire dans un emploi correspondant à son grade.  
+ 
+ 32 
+ 
+ Reclassement  
+L’agent devenu inapte, temporairement ou définitivement, à exercer les fonctions de son corps, peut 
+bénéficier d’une période préparatoire au reclassement et être reclassé dans un autre corps après avis 
+du comité médical dans les conditions du décret du 8 juin 19894. 
+Le comité médical est saisi  au vu des conclusions d’expertise par un médecin agréé que l’établissement 
+aura diligentée dans l’hypothèse où elle pressent l’inaptitude de l’agent ou à la demande de l’agent.  
+3. Obligations de l’agent en CITIS  
+a) Contrôle médical  
+L’agent dont l’accident ou la maladie a été reconnu imputable au service, et qui peut à ce titre 
+bénéficier d’un CITIS avec maintien de sa rémunération et prise en charge de ses frais et honoraires 
+médicaux, doit se soumettre, sous peine de suspension de sa rémunération, à différents contrôles de 
+son état de santé.  
+Ce contrôle médical est effectué par un médecin agréé du lieu le plus proche du domicile ou du lieu de 
+séjour (voir § b)  infra) que l’agent a signalé à son établissement . 
+Dans tous les cas,  
+l’établissement qui fait procéder à expertise médicale doit, lorsqu’elle saisit le  
+médecin agréé, lui préciser que  
+   seules les conclusions de cette expertise doivent lui être transmises  
+ et que le rapport complet d’expertise doit être transmis sous enveloppe cachetée  
+ indiquant clairement « pli confidentiel –  secret médical » 
+ 
+La remise d’une enveloppe à cet effet lors de la saisine du médecin agréé et la mise en place de circuit 
+de courrier adapté est une bonne pratique de nature à protéger le secret médical, l’agent ayant 
+toujours la possibilité de connaître le détail d’une expertise médicale le concernant.  
+L’agent et l’établissement ont, chacun, la possibilité de saisir la commission de réforme pour avis des 
+conclusions du médecin agréé.  
+Décret n°88 -386 du 19 avril 1988  
+Lorsqu’un fonctionnaire est en congé pour invalidité temporaire imputable au service, l’autorité investie 
+du pouvoir de nomination peut faire procéder à tout moment à sa contre -visite par un médecin agréé. 
+Elle procède obligatoirement  à cette contre -visite au moins une fois par an au -delà de six mois de 
+prolongation du congé initialement accordé . 
+Article 35 -12 
+Lorsque l’autorité investie  du pouvoir de nomination ou la commission de réforme fait procéder à une 
+expertise médicale ou à une contre -visite de l’agent, celui -ci doit se soumettre à la visite du médecin 
+agréé sous peine d’interruption du versement de sa rémunération jusqu’à ce que cette visite soit 
+effectuée.  
+                                                           
+4 Décret n°89 -376 du 8 juin 1989 pris pour l'application de la loi n° 86- 33 du 9 janvier 1986 portant dispositions 
+statutaires relatives à la fonction publique hospitalière et relatif au reclassement des fonctionnaires pour 
+raison s de santé . 33 
+  Contre visite annuelle obligatoire au -delà de 6 mois de CITIS  
+Lorsqu’u n agent est en CITIS depuis plus de 6 mois, l’établissement a obligation de le faire examiner 
+par un médecin agréé au moins une fois par an.  
+Cette contre- visite permet de s’assurer  que :  
+- L’état de santé de l’agent justifie son maintien en arrêt de travail ;  
+- Que cet état de santé demeure lié à l’accident ou à la maladie dont il a été victime et qui a été 
+reconnu imputable au service ;  
+- Que la prise en charge des frais et honoraires médicaux demandée est en lien avec cet accident 
+ou cette maladie.  
+Au-delà de d ouze mois de CITIS en continu, elle peut également permettre à l’établissement  de 
+s’assurer que l’inaptitude de l’agent à ses fonctions demeure temporaire.  
+Si les conclusions de l’expertise indiquent que cette inaptitude est définitive, l’établissement doit saisir 
+le comité médical qui se prononcera sur l’inaptitude à l’exercice des fonctions de son corps, avec 
+possibilité de reclassement, ou à l’exercice de toutes fonctions, sans possibilité de reclassement.  
+Dans certaines situations la question de l’aptit ude aux fonctions du corps de l’agent peut être posée 
+sans délai.  
+En cas d’impossibilité de reclassement, il entreprendra les démarches en vue de sa mise à la retraite 
+pour invalidité.  
+Il est recommandé, en conséquence, pour toute expertise médicale sollicitée au -delà de 12 mois de 
+CITIS en continu de demander au médecin agréé, en complément des points évoqués ci -dessus :  
+- Si l’inaptitude de l’agent à exercer ses fonctions demeure provisoire ;  
+- Dans la négative, si son état de santé permet d’envisager u n reclassement dans un autre corps 
+; 
+- Dans la négative, d’indiquer le taux d’invalidité de l’agent.  
+ 
+ Contre -visite sur demande de l’établissement à  tout  moment  
+En dehors de la contre -visite annuelle obligatoire, l’établissement a la possibilité, à tout mome nt, de 
+vérifier si l’état de santé de l’agent nécessite son maintien en CITIS et si les frais et honoraires médicaux dont la prise en charge lui est demandée sont en lien avec ce CITIS.  
+Afin de ne pas augmenter la charge des médecins agréés, la limitation du nombre de contre -visite à 
+trois par an est recommandée.  
+b) Changement de domicile et absences  
+Dès qu’il s’absente –  temporairement ou définitivement - de son domicile plus de deux semaines, et 
+sauf s’il est hospitalisé, l’agent doit en informer son établiss ement.  
+Il lui indique à cette occasion :  
+- L’adresse / les adresses de son lieu de séjour ;  
+- La durée de ce séjour.  
+S’il ne satisfait pas à cette obligation, sa rémunération peut être suspendue jusqu’à ce qu’il communique à l’établissement ses nouvelles coordonnées.  34 
+ Article 35 -14 Décret n° 88- 386 du 19 avril 1988  
+Le fonctionnaire bénéficiant d’un congé pour invalidité temporaire imputable au service informe 
+l’autorité investie du pouvoir de nomination de tout changement de domicile et, sauf cas 
+d’hospitalisation, de toute absence du domicile supérieure à deux semaines. Il informe l’autorité 
+investie du pouvoir de nomination de ses dates et lieux de séjour.  
+A défaut, le versement de la rémunération du fonctionnaire peut être interrompu.  
+c) Exercice d ’une activité rémunérée  
+Un agent en CITIS ne peut pas exercer d’activité rémunérée en dehors des activités ordonnées et 
+contrôlées médicalement au titre de la réadaptation, de la production des œuvres de l'esprit et de droits d’auteurs, référencées aux art icles L. 112 -1, L. 112 -2 et L. 112 -3 du code de la propriété 
+intellectuelle.  
+S’il ne satisfait pas à cette obligation, sa rémunération peut être suspendue jusqu’à ce qu’il cesse son 
+activité rémunérée non autorisée.  
+Article 35 -15 du décret n° 88 -386 du 19 avril 1988  
+Le bénéficiaire d’un congé pour invalidité temporaire imputable au service doit cesser toute activité 
+rémunérée, à l’exception des activités ordonnées et contrôlées médicalement au titre de la 
+réadaptation et des activités mentionnées au premie r alinéa du V de l’article 25 septies de la loi du 13 
+juillet 1983 susvisée.  
+En cas de non- respect de cette obligation, l’autorité investie du pouvoir de nomination procède à 
+l’interruption du versement de la rémunération et prend les mesures nécessaires p our faire reverser les 
+sommes indûment perçues par l’intéressé au titre du traitement et des accessoires.  
+La rémunération est rétablie à compter du jour où l’intéressé a cessé toute activité rémunérée non 
+autorisée.  
+Sortie du CITIS  
+La reconnaissance de l’ imputabilité au service d’un accident ou d’une maladie permet à l’agent de 
+bénéficier des dispositions relatives au CITIS jusqu’à ce qu’il puisse reprendre le service, s’il y a lieu 
+après reclassement, ou qu’il soit admis à la retraite. La stabilisation de  l’état de santé de l’agent doit 
+être portée à la connaissance de l’employeur qui peut alors clôturer le dossier d’accident de service ou 
+de maladie professionnelle de l’agent sans que cela fasse obstacle à la prise en charge ultérieure d’une éventuelle rechute.  
+La stabilisation de l’état de santé de l’agent peut prendre différentes formes :  
+- Guérison totale avec retour à l’état de santé antérieur à l’accident ou la maladie ;  
+- Consolidation, ou guérison partielle avec des séquelles liées à l’accident ou à la maladie ;  
+- Incapacité permanente de continuer toutes fonctions.  
+La consolidation correspond à un état de santé stabilisé qui a atteint un stade auquel il ne peut plus 
+s’améliorer et ne nécessite plus de soins en dehors de soins d’entretien visant à ce qu’il  ne se dégrade 
+pas. 
+ 35 
+  
+1. Guérison ou consolidation de l’agent  
+Dans ces situations, la notion de stabilisation de l’état de santé est indépendante de la capacité de 
+l’agent à reprendre ses fonctions.  
+Exemple : le 15 février, un agent fait une chute dans le cadre de son service et souffre de douleurs à la 
+cheville. Il consulte son médecin qui diagnostique une entorse et l’arrête aussitôt.  
+Le 30 mars, l’état de santé de l’agent s’est amélioré, il peut marcher mais n’a pas retrouvé une parfaite 
+mobilité de sa chev ille. Son médecin l’autorise à reprendre le travail et lui prescrit des séances de 
+rééducation.  
+Le 5 mai, à l’issue de ses séances de rééducation, son médecin constate  
+Hypothèse 1 : qu’il est totalement guéri ;  
+Hypothèse 2 : que son état est stabilisé mais  qu’il subsiste des séquelles.  
+ 
+Dans les deux cas, il établit un certificat final en date du 5 mai.  
+L’administration place l’agent en CITIS du 15 février au 30 mars et prend en charge les frais et 
+honoraires directement liés à cet accident :  
+Jusqu’au 5 mai  dans l’hypothèse 1 ;  
+Au-delà du 5 mai si nécessaire dans l’hypothèse 2.  
+ 
+a) Envoi du certificat final  
+• Envoi du certificat par l’agent  
+Article 35 -17 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Lorsqu’il est guéri ou que les lésions résultant de l’accident de service, de l’accident de trajet ou de la 
+maladie professionnelle sont stabilisées, le fonctionnaire transmet à l’autorité investie du pouvoir de 
+nomination un certificat médical final de guérison ou de consolidation.  
+De la même façon que l’agent victime d’un accident de service ou d’une maladie professionnelle aura 
+fait constater son état de santé initial par un médecin, il fait également constater par un médecin sa 
+guérison ou sa consolidation.  
+Ces indications peuvent être portées par le médecin sur le formulaire cerfa n° 11138 « certificat 
+médical accident du travail - maladie professionnelle » à la rubrique « conclusions » qui sera transmis 
+par l’agent à son employeur.  
+• Démarches de l’établissement  
+Le service RH complète le dossier de l’agent par  la production de ce certificat final.  
+Dans l’hypothèse où ce certificat évoque des séquelles, il entreprend les démarches en vue de leur 
+indemnisation éventuelle.  
+En effet, le fonctionnaire qui a été atteint d’une invalidité résultant d’un accident de service ou d’une 
+maladie professionnelle ayant entraîné une incapacité permanente peut, sous certaines conditions, 
+prétendre à une allocation temporaire d’invalidité (ATI ) cumulable avec son traitement  36 
+ b) Prise en charge des rechutes  
+Article 35 -17 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Toute modification de l’état de santé du fonctionnaire constatée médicalement postérieurement à la 
+date de guérison apparente ou de consolidation de la blessure qui nécessite un traitement médical peut 
+donner lieu à un nouve au congé pour invalidité temporaire imputable au service et au remboursement 
+des honoraires médicaux et des frais directement correspondants.  
+La constatation de la guérison ou de la consolidation de l’état de santé de l’agent n’exclut en aucun 
+cas l’éventu alité d’une rechute qui peut être prise en charge par l’établissement sous réserve de 
+satisfaire à différents critères.  
+• Notion de rechute  
+La rechute d'un accident de service se caractérise par la récidive ou l'aggravation subite et naturelle 
+de l'affection  initiale après sa consolidation sans intervention d'une cause extérieure  
+La rechute est constituée au vu de différents critères :  
+- Caractère spontané des nouveaux troubles qui doivent résulter de l'évolution de l'état de santé 
+de l'agent et non d'un nouvea u fait traumatique, auquel cas il y aurait un nouvel accident ;  
+- Imputabilité de ces nouveaux troubles à l'accident de service initial ;  
+- Modification de l'état de l'agent même s'il avait été déclaré guéri ou consolidé ;  
+- Nécessité d’un traitement médical avec ou sans arrêt de travail.  
+ 
+ 
+• Déclaration de rechute par l’agent et instruction par l’administration  
+Article 35 -17 du décret n°88 -386 du 19 avril 1988 (extrait)  
+La rechute est déclarée dans le délai d’un mois à compter de sa constatation médicale. La décla ration 
+est transmise dans les formes prévues à l’article 35 -2 à l’autorité investie du pouvoir de nomination à 
+la date de cette déclaration.  
+La déclaration de rechute est effectuée par l’agent dans les mêmes conditions de forme que la 
+déclaration initiale d’accident de service ou de maladie professionnelle.  
+En cas d’arrêt de travail, cet arrêt doit impérativement, comme tout arrêt de travail, être transmis à 
+l’établissement dans les 48 heures.  
+Le délai de déclaration de rechute est, dans tous les cas, d’un mois à compter de la constatation 
+médicale de la rechute. Il n’est pas prévu de possibilités de dérogation à ce délai.  
+ 
+2. Inaptitude définitive de l’agent : reclassement et retraite pour invalidité  
+ 
+• Lorsque la stabilisation de l’état de santé de l’agent cond uit à un constat d’inaptitude 
+permanente et définitive à continuer d’exercer ses fonctions, le fonctionnaire est reclassé si 
+son état de santé permet d’exercer des fonctions relevant d’un autre grade ou corps de la 
+fonction publique hospitalière. Le cas éc héant, l’agent bénéficie, s’il le souhaite, de la période 
+de préparation au reclassement.  37 
+ • Lorsque l’agent est définitivement inapte à toutes fonctions ou qu’il n’a pas pu bénéficier 
+d’une solution de reclassement, l’agent est radié des cadres et admis à la  retraite pour 
+invalidité. Il peut, sous certaines conditions, prétendre à une rente viagère d’invalidité (RVI) cumulable avec sa pension de retraite.  
+• Le constat d’inaptitude définitive peut intervenir dans le cadre d’une contre -visite sur 
+demande de l’emp loyeur à tout moment ou de la contre visite annuelle obligatoire au -delà de 
+6 mois de CITIS.  
+ 
+Retraite et mobilité  
+ 
+1. Retraite  
+La radiation des cadres et l’admission à la retraite, pour quelque motif que ce soit, si elles ne 
+permettent plus le placement en CITIS, n’éteignent pas les droits à prise en charge de frais et 
+honoraires médicaux d’un agent victime d’un accident de service ou d’une maladie professionnelle.  
+Article 35 -18 du décret n° 88 -386 du 19 avril 1988  
+Le fonctionnaire retraité peut demander à l’autorité investie du pouvoir de nomination ayant prononcé 
+sa radiation des cadres à bénéficier, dans les conditions prévues par le présent titre, des dispositions 
+relatives au remboursement des honoraires médicaux et des fr ais directement entraînés par :  
+1° L’accident ou la maladie reconnu imputable au service dont a découlé sa radiation des cadres en 
+application de l’article 36 du décret du 26 déce mbre 2003 mentionné ci -dessus ;  
+2° La rechute d’un accident ou d’une maladie reconnu imputable au service su rvenu alors qu’il était en 
+activité ;  
+3° La survenance d’une maladie imputable au service déclarée postérieurement à sa radiation des 
+cadres.  
+a) Accident ou maladie déclarés avant la radiation des cadres  
+Les droits de l’agent sont maintenus :  
+• Lorsque l’accide nt de service ou la maladie professionnelle est la cause de son départ en 
+retraite pour invalidité ;  
+Exemple 1 : en 2018, un agent est victime d’un accident de trajet. Gravement blessé, il est placé en 
+CITIS.  
+En 2019, après 18 mois de CITIS, son état de santé s’est amélioré mais nécessite encore de nombreux 
+soins et son inaptitude permanente et définitive à continuer ses fonctions est établie, sans possibilité 
+de reclassement.  
+L’agent est mis à la retraite pour invalidité et les honoraires médicaux et les  frais liés à cet accident 
+continuent d’être pris en charge.  
+  38 
+ • Lorsque son départ en retraite n’est pas lié à l’accident de service ou à la maladie 
+professionnelle dont il a été victime ;  
+Exemple 2 : en 2015, un agent a été victime d’un accident de service . Placé en CITIS pendant 3 mois, il 
+a repris son activité.  
+En 2017, son état a été consolidé mais nécessite une cure annuelle.  
+En 2019, il prend sa retraite.  
+Si son état de santé le justifie, les frais de cure directement rendus nécessaires par l’accident de 2015 
+continuent d’être pris en charge pendant sa retraite.  
+• Lorsqu’il est victime d’une rechute après son départ en retraite ;  
+Dans cette situation, ses droits sont établis de la même façon que  s’il était encore en activité.  
+Exemple 3 : en 2015, un agent  a été victime d’un accident de service. Il a été hospitalisé et opéré.  
+Placé en CITIS pendant 6 mois, il a repris son activité.  
+En 2017, son état a été consolidé.  
+En 2019, il prend sa retraite.  
+En 2020, il doit subir une nouvelle opération, en lien avec celle de 2015, qui est reconnue comme rechute 
+de la précédente.  
+Les frais liés à cette opération sont pris en charge par l’administration.  
+b) Maladie survenue postérieurement à la radiation des cadres  
+De nombreuses maladies professionnelles ne se manifestent p as immédiatement après l’exposition au 
+risque qui les provoque. Le délai qui s'écoule entre cette exposition et les premières manifestations de 
+la maladie, ou « période de latence », peut parfois s’étendre jusqu’à plusieurs décennies.  
+La déclaration d’une maladie professionnelle postérieurement au départ d’un agent en retraite doit 
+donc être instruite de la même façon que toute autre maladie professionnelle dans le respect des conditions de délais de déclaration.  
+2. Situation des fonctionnaires en mobilité  
+Conformément aux dispositions de l’article 14 de la loi du 13 juillet 1983, l'accès des fonctionnaires 
+hospitaliers aux deux autres fonctions publiques, ainsi que leur mobilité au sein de chacune de ces trois fonctions publiques, constituent des garanties fon damentales de leur carrière.  
+Lorsque, au titre de cette mobilité, l’agent occupe un emploi conduisant à pension du code des 
+pensions civiles et militaires de retraite ( position normale d’activité, mise à disposition, dét achement), 
+il conserve les droits liés au CITIS mais la mise en œuvre de ces droits s’exerce de façon spécifique 
+selon la situation dans laquelle il se trouve.  
+L’ensemble de ces dispositions s’appliquent à l’identique aux agents de la fonction publique d’Etat ou territoriale qui effectuent u ne mobilité dans la fonction publique hospitalière.  
+Lorsqu’un agent a, avant d’être fonctionnaire, exercé une activité professionnelle relevant des 
+dispositions du régime général de sécurité sociale ou d’un régime spécial de sécurité sociale (hors 39 
+ régime s pécial des fonctionnaires), les accidents, maladies ou rechutes liés à cette période d’activité 
+ne bénéficient pas des dispositions de l’article 21 bis de la loi du 13 juillet 1983 et n’ouvrent pas droit 
+au CITIS. 
+ 
+a) Accident ou maladie pendant la mobilité  
+Article 35 -19 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Un fonctionnaire qui effectue une mobilité dans un emploi conduisant à pension dans les conditions 
+prévues à l’article 14 de la loi du 13 juillet 1983 susvisée peut demander le bénéfice d’un congé  pour 
+invalidité temporaire imputable au service :  
+1° Au titre d’un accident survenu ou d’une maladie contractée pendant sa mobilité. Le congé est 
+accordé par l’employeur d’affectation du fonctionnaire au moment de la déclaration dans les conditions 
+prévue s au présent titre  ;  
+Si l’accident ou la maladie survient pendant la mobilité de l’agent et, pour la maladie, si elle est liée à 
+l’activité professionnelle exercée pendant cette mobilité, l’employeur d’accueil de l’agent prend en 
+charge les arrêts de trav ail éventuels au titre du CITIS ainsi que les frais et honoraires médicaux liés à 
+l’accident ou à la maladie dans les conditions du titre VI bis du d écret n°  88-386 du 19 avril 1988.  
+ 
+b) Accident ou maladie  avant la mobilité  
+Article 35 -19 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Un fonctionnaire qui effectue une mobilité dans un emploi conduisant à pension dans les conditions 
+prévues à l’article 14 de la loi du 13 juillet 1983 susvisée peut demander le bénéfice d’un congé pour 
+invalidité temporaire imput able au service :   
+[…] 
+2° Au titre d’une maladie contractée avant sa mobilité pendant une période d’activité dans un emploi 
+conduisant à pension auprès d’un autre employeur public relevant de la loi du 13 juillet 1983 susvisée. 
+Le congé est accordé par l’e mployeur d’affectation du fonctionnaire au moment de la déclaration, après 
+avis de l’employeur d’origine, dans les conditions prévues au présent titre ;  
+ […]  
+Dans les situations mentionnées aux 2° et au 3° du présent article, les sommes versées par l’empl oyeur 
+d’accueil au titre du maintien de traitement, des honoraires médicaux et des frais directement entrainés 
+par l’accident ou la maladie ainsi que les cotisations et contributions versés par lui sont remboursées 
+par l’employeur d’origine.  
+Si la maladie  survient pendant la mobilité de l’agent et si elle est liée à une activité professionnelle 
+antérieure à cette mobilité, l’établissement d’accueil de l’agent prend l’attache de l’établissement 
+auprès duquel l’agent exerçait les fonctions à l’origine de sa m aladie. Au terme de l’instruction de la 
+déclaration déposée par l’agent, si l’imputabilité au service de cette maladie est reconnue, 
+l’établissement d’accueil prend la décision de reconnaissance et prend en charge les arrêts de travail 
+éventuels au titre d u CITIS ainsi que les frais et honoraires médicaux liés à cette maladie.  40 
+ Le dernier alinéa de l’article 35 -19 du décret n°  88-386 du 19 avril 1988 prévoit par ailleurs le 
+remboursement par l’établissement d’origine à l’établissement d’accueil des frais lié s à la 
+rémunération, aux cotisations et contributions versées au titre du CITIS.  
+ 
+Exemple 4 :  
+De 2000 à 2018 l’agent  exerce son activité au sein de l’établissement A  
+En 2019 il est affecté en positi on normale d’activité auprès de  l’établissement  B 
+En 2020,  il déclare une maladie professionnell e liée à son activité auprès de l’établissement A.  
+Il adresse sa déclaration de maladie à l’établissement  B. 
+Celui- ci instruit sa demande en lien avec l’établissement  A. 
+La décision de reconnaissance d’imputabilité au service est prise par l’établissement  B qui, le cas 
+échéant, place l’agent en CITIS, prend en charge ses frais et honor aires médicaux et demande à 
+l’établissement  A le remboursement des frais, rémunérations e t cotisations et contributions versées au 
+titre du CITIS.  
+ 
+Exemple 5 :  
+De 2000 à 2018 l’agent exerce son activité au sein de l’établissement A  
+En 2019 il est détaché auprès  de l’établissement  B 
+En 2020, il déclare une maladie professionnelle liée à son act ivité auprès de l’établissement A.  
+Il adresse sa déclaration de maladie à de l’établissement B.  
+Celle -ci instruit sa demande en concertation avec l’établissement A. 
+La décision de reconnaissance d’imputabilité au service est prise par  l’établissement B qui , le cas 
+échéant, place l’agent en CITIS, prend en charge ses frais et honoraires médicaux et demande à  
+l’établissement  A le remboursement des frais, rémunérations et cotisations et contributions versées au 
+titre du CITIS.  
+ 
+  
+ 
+ 
+ 
+ 
+ 41 
+ Il peut également arriver qu’un agent en mobilité déclare un accident survenu pendant l’affectation 
+précédent sa mobilité. Il est alors recommandé d’appliquer les mêmes principes.  
+Exemple 6 :   
+Un agent exerce son activité au sein de l’établissement A. 
+Le 4 décembre 2018, il fait u ne chute, mais ne consulte pas son médecin.  
+Le 1er janvier 2019 il est affecté en position normale d’activité auprès de l’établissement B  
+Le 15 janvier 2019, il consulte son médecin pour des douleurs à la cheville et souhaite faire reconnaitre 
+sa chute com me accident de service (il satisfait toujours aux conditions de délai de déclaration 
+d’accident prévues à l’article 35 -3). 
+Il adresse, dans un délai de quinze jours à compter de la constatation médicale de son état, une 
+déclaration d’accident de service à  l’établissement B. 
+Celui- ci instruit sa demande en lien avec  l’établissement A. 
+La décision de reconnaissance d’imputabilité au service est prise par l’établissement B qui, le cas 
+échéant, place l’agent en CITIS et prend en charge ses frais et honoraires médicaux.  
+ 
+c) Rechute liée à un accident ou une maladie reconnus par un autre établissement  
+ 
+Article 35 -19 du décret n°88 -386 du 19 avril 1988 (extrait)  
+Un fonctionnaire qui effectue une mobilité dans un emploi conduisant à pension dans les conditions 
+prévues à l’article 14 de la loi du 13 juillet 1983 susvisée peut demander le bénéfice d’un congé pour 
+invalidité temporaire imputable au service :  
+[…] 
+3° A u titre d’une rechute liée à un accident ou une maladie antérieurement reconnu imputable au 
+service et survenu pendant une période d’activité dans un emploi conduisant à pension auprès d’un 
+autre employeur public relevant de la loi du 13 juillet 1983 susvi sée. Le congé est accordé par 
+l’employeur d’affectation du fonctionnaire à la date de la déclaration de rechute, après avis de 
+l’employeur d’origine, dans les conditions prévues au présent titre et au regard de la décision de 
+reconnaissance d’imputabilité d ont bénéficie le fonctionnaire.  
+ Dans les situations mentionnées aux 2° et au 3° du présent article, les sommes versées par l’employeur 
+d’accueil au titre du maintien de traitement, des honoraires médicaux et des frais directement entrainés 
+par l’accident  ou la maladie ainsi que les cotisations et contributions versés par lui sont remboursées 
+par l’employeur d’origine.  
+Un agent qui a été victime, avant sa mobilité et en tant que fonctionnaire, d’un accident ou d’une 
+maladie reconnu imputable au service, pe ut, s’il rechute pendant une période de mobilité, bénéficier 
+des dispositions du titre VI du décret du 14 mars 1986.  
+Son employeur d’accueil prend l’attache de l’employeur qui a pris en charge l’accident de service ou la 
+maladie professionnelle d’origine. Au terme de l’instruction de la déclaration déposée par l’agent, si la 
+rechute est reconnue imputable à l’accident ou maladie d’origine, l’employeur d’accueil place l’agent  42 
+ en CITIS et prend en charge les arrêts de travail éventuels au titre du CITIS ainsi  que les frais et 
+honoraires médicaux liés à cette maladie.  
+Il est procédé au remboursement par l’employeur d’origine à l’employeur d’accueil des frais liés à la 
+rémunération, aux cotisations et contributions versées au titre du CITIS dans les mêmes conditions qu’au paragraphe b) ci -dessus.  
+ 
+d) Cas particulier : la mise à disposition  
+Article 35 -19 du décret n°88 -386 du 19 avril 1988 (extrait)  
+En cas de mise à disposition, la décision d’octroi est prise par l’autorité mentionnée à l’article 8 du 
+décret n° 88-976 du 13 octobre 1988 relatif au régime particulier de certaines positions des 
+fonctionnaires hospitaliers, à l'intégration et à certaines modalités de mise à disposition.  
+Article 8 du décret n° 88 -976 du 13 octobre 1988   
+L'établissement d'origine prend à l'égard des fonctionnaires qu'il a mis à disposition les décisions 
+relatives aux congés prévus aux articles 3° à 11° de l'article 41 de la loi du 9 janvier 1986 susvisée, ainsi 
+que celles relatives au bénéfice du compte personnel de formation, après av is du ou des organismes 
+d'accueil. Il en va de même des décisions d'aménagement de la durée du travail.  
+L'établissement d'origine supporte les charges qui peuvent résulter de l'application du deuxième alinéa 
+du 2° de l'article 41 et de l'article 80 de cett e même loi.  
+Il prend en charge la rémunération, l'indemnité forfaitaire relative au congé de formation 
+professionnelle.  
+Lorsqu’un agent en mobilité par voie de mise à disposition est victime d’un accident de service ou 
+d’une maladie professionnelle, c’est toujours l'établissement d'origine, après avis de l’établissement  
+d'accueil, qui prend la décision de reconnaissance d’imputabilité au service de c et accident ou de cette 
+maladie et supporte les charges qui en résultent.  
+e) Mobilité dans un emploi ne conduisa nt pas à pension  
+Un accident ou une maladie qui survient alors que l’agent est en mobilité dans un emploi ne conduisant pas à pension (disponibilité pour création d’entreprise, par exemple, ou position hors cadre auprès d’un organisme international) ne bén éficie pas, à ce titre, des dispositions de l’article 21 bis de la loi 
+du 13 juillet 1983. C’est le régime des accidents et maladies d’origine professionnelle applicable à son 
+contrat qui définit le régime qui lui est applicable.  
+  43 
+  
+f) Synthèse  
+Le tableau ci -dessous reprend les différentes dispositions précisées aux paragraphes précédents, 
+précise la commission de réforme compétente et le mode de g estion à la fin de la mobilité.  
+ 
+ 
+ 
+ 
+  
+44 
+ 
+ 
